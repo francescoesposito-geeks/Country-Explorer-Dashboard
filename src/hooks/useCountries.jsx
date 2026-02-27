@@ -1,3 +1,6 @@
+import { useState } from "react";
+import { useEffect } from "react";
+
 export function useCountries() {
   const [countries, setCountries] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -14,6 +17,7 @@ export function useCountries() {
           throw new Error("Errore HTTP: " + response.status);
         }
 
+        //converto risposta JSON ad oggetto js
         const data = await response.json();
         console.log(data);
 
@@ -21,6 +25,7 @@ export function useCountries() {
       } catch (error) {
         setError(error);
       }
+      setLoading(false);
     }
 
     fetchUrl();

@@ -1,11 +1,11 @@
-export function CountryCards({ countries }) {
+export function CountryCards({ country }) {
   return (
     <li>
-      <p>flag: {countries.flags.png}</p>
-      <p>country name: {countries.name.common}</p>
-      <p>country capital: {countries.capital}</p>
-      <p>population: {countries.population}</p>
-      <p>continents: {countries.continents}</p>
+      <img src={country.flags.png} />
+      <p>country name: {country.name.common}</p>
+      <p>country capital: {country.capital}</p>
+      <p>population: {country.population}</p>
+      <p>continents: {country.continents}</p>
     </li>
   );
 }

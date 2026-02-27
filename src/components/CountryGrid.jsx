@@ -1,10 +1,10 @@
 import { CountryCards } from "./CountryCards";
 
-export function CountryGrid() {
+export function CountryGrid({ countries }) {
   return (
     <ul>
       {countries.map((country) => {
-        <CountryCards countries={countries} />;
+        return <CountryCards country={country} />;
       })}
     </ul>
   );
