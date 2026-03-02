@@ -13,7 +13,7 @@ export function useCountries() {
 
       try {
         const response = await fetch(url);
-        if (!response) {
+        if (!response.ok) {
           throw new Error("Errore HTTP: " + response.status);
         }
 
