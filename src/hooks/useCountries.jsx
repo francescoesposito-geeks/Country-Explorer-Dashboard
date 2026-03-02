@@ -17,9 +17,9 @@ export function useCountries() {
           throw new Error("Errore HTTP: " + response.status);
         }
 
-        //converto risposta JSON ad oggetto js
         const data = await response.json();
-        console.log(data);
+        // finta promise per rallentare
+        await new Promise((r) => setTimeout(r, 2000));
 
         setCountries(data);
       } catch (error) {

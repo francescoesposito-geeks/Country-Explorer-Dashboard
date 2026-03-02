@@ -1,0 +1,12 @@
+.loadingSpinner {
+  animation: rotate 0.8s linear infinite;
+  height: 80px;
+  width: 80px;
+  padding: 5rem;
+}
+
+@keyframes rotate {
+  to {
+    transform: rotate(360deg);
+  }
+}
