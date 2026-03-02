@@ -1,4 +1,4 @@
-import { CountryCards } from "./CountryCards";
+import { CountryCards } from "./CountryCard";
 
 export function CountryGrid({ countries }) {
   return (

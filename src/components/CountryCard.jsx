@@ -1,4 +1,4 @@
-export function CountryCards({ country }) {
+export function CountryCard({ country }) {
   return (
     <li key={country.name.common}>
       <img src={country.flags.png} />
