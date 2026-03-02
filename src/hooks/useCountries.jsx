@@ -24,6 +24,7 @@ export function useCountries() {
         setCountries(data);
       } catch (error) {
         setError(error);
+        console.error(error.message);
       }
       setLoading(false);
     }
