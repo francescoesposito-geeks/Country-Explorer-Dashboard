@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.gridCards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  gap: 5rem;
+}
+
+ul {
+  list-style: none;
+}
+
+ul img {
+  width: 8rem;
+  height: 4rem;
+  max-width: 100%;
+  border-radius: 5%;
+}
