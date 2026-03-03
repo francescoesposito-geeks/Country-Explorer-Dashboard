@@ -19,7 +19,7 @@ export function useCountries() {
 
         const data = await response.json();
         // finta promise per rallentare
-        await new Promise((r) => setTimeout(r, 2000));
+        await new Promise((r) => setTimeout(r, 1000));
 
         setCountries(data);
       } catch (error) {

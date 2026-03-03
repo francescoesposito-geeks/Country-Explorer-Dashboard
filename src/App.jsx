@@ -4,6 +4,7 @@ import { CountryGrid } from "./components/CountryGrid";
 import { useCountries } from "./hooks/useCountries";
 import { LoadingSpinner } from "./components/LoadingSpinner";
 import { useState, useMemo } from "react";
+import { FilterBar } from "./components/FilterBar";
 
 function App() {
   const { countries, loading, error } = useCountries();
@@ -24,10 +25,12 @@ function App() {
   return (
     <>
       <h1> Country Explorer Dashboard </h1>
-      <SearchBar onSubmit={searchCountry} value={inputSearch} />
-      {/* <FilterBar /> */}
-      {loading && <LoadingSpinner />}
+      <div className="inputBar">
+        <SearchBar onSubmit={searchCountry} value={inputSearch} />
+      </div>
+      <FilterBar />
       <CountryGrid countries={filteredCountries} />
+      {loading && <LoadingSpinner />}
     </>
   );
 }
