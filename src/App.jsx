@@ -13,13 +13,26 @@ function App() {
   const [sorting, setSorting] = useState("");
 
   const filteredCountries = useMemo(() => {
+    let finalResult;
+
     if (inputSearch === "") {
-      return countries;
+      finalResult = countries;
     } else {
-      return countries.filter((country) => country.name.common === inputSearch);
+      finalResult = countries.filter(
+        (country) =>
+          country.name.common.toLowerCase() === inputSearch.toLowerCase(),
+      );
+    }
+    if (sorting === "increasing") {
+      let arrayCountries = [...countries];
+      finalResult = arrayCountries.sort((a, b) => a.population - b.population);
+    }
+    if (sorting === "decreasing") {
+      let arrayCountries = [...countries];
+      finalResult = arrayCountries.sort((a, b) => b.population - a.population);
     }
 
-    if ()
+    return finalResult;
   }, [countries, inputSearch, continentChoice, sorting]);
 
   function searchCountry(input) {
@@ -29,6 +42,7 @@ function App() {
   function resetStates() {
     setContinentChoice("");
     setSorting("");
+    console.log("sorting", sorting);
   }
 
   return (
