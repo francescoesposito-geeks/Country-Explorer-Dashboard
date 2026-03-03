@@ -9,6 +9,8 @@ import { FilterBar } from "./components/FilterBar";
 function App() {
   const { countries, loading, error } = useCountries();
   const [inputSearch, setInputSearch] = useState("");
+  const [continentChoice, setContinentChoice] = useState("");
+  const [sorting, setSorting] = useState("");
 
   const filteredCountries = useMemo(() => {
     if (inputSearch === "") {
@@ -16,10 +18,17 @@ function App() {
     } else {
       return countries.filter((country) => country.name.common === inputSearch);
     }
-  }, [countries, inputSearch]);
+
+    if ()
+  }, [countries, inputSearch, continentChoice, sorting]);
 
   function searchCountry(input) {
     setInputSearch(input);
+  }
+
+  function resetStates() {
+    setContinentChoice("");
+    setSorting("");
   }
 
   return (
@@ -28,7 +37,13 @@ function App() {
       <div className="inputBar">
         <SearchBar onSubmit={searchCountry} value={inputSearch} />
       </div>
-      <FilterBar />
+      <FilterBar
+        valueContinent={continentChoice}
+        valueSorting={sorting}
+        onReset={resetStates}
+        setContinentChoice={setContinentChoice}
+        setSorting={setSorting}
+      />
       <CountryGrid countries={filteredCountries} />
       {loading && <LoadingSpinner />}
     </>

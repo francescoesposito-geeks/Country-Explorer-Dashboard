@@ -1,20 +1,17 @@
-import { useState } from "react";
 import "/src/filterbar.css";
 
-export function FilterBar() {
-  const [continentChoice, setContinentChoice] = useState("");
-  const [sorting, setSorting] = useState("");
-
-  function resetStates() {
-    setContinentChoice("");
-    setSorting("");
-  }
-
+export function FilterBar({
+  valueContinent,
+  valueSorting,
+  onReset,
+  setSorting,
+  setContinentChoice,
+}) {
   return (
     <>
       <div className="selects">
         <select
-          value={continentChoice}
+          value={valueContinent}
           onChange={(e) => setContinentChoice(e.target.value)}
         >
           <option value="" disabled hidden>
@@ -28,14 +25,17 @@ export function FilterBar() {
           <option value="North America">North America</option>
           <option value="Antartica">Antartica</option>
         </select>
-        <select value={sorting} onChange={(e) => setSorting(e.target.value)}>
+        <select
+          value={valueSorting}
+          onChange={(e) => setSorting(e.target.value)}
+        >
           <option value="" disabled hidden>
             Choose sort
           </option>
           <option value="increasing">increasing</option>
           <option value="decreasing">decreasing</option>
         </select>
-        <button onClick={resetStates}> reset </button>
+        <button onClick={onReset}> reset </button>
       </div>
     </>
   );
