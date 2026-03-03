@@ -3,33 +3,28 @@ import { SearchBar } from "./components/SearchBar";
 import { CountryGrid } from "./components/CountryGrid";
 import { useCountries } from "./hooks/useCountries";
 import { LoadingSpinner } from "./components/LoadingSpinner";
-import { useState } from "react";
+import { useState, useMemo } from "react";
 
 function App() {
   const { countries, loading, error } = useCountries();
   const [inputSearch, setInputSearch] = useState("");
-  let filteredCountries;
 
-  if (inputSearch === "") {
-    filteredCountries = countries;
-  } else {
-    filteredCountries = countries.filter((country) => {
-      return country.name.common === inputSearch;
-    });
-  }
+  const filteredCountries = useMemo(() => {
+    if (inputSearch === "") {
+      return countries;
+    } else {
+      return countries.filter((country) => country.name.common === inputSearch);
+    }
+  }, [countries, inputSearch]);
+
   function searchCountry(input) {
-    console.log(input);
     setInputSearch(input);
-  }
-
-  function resetSearch() {
-    setInputSearch("");
   }
 
   return (
     <>
       <h1> Country Explorer Dashboard </h1>
-      <SearchBar onSubmit={searchCountry} onReset={resetSearch} />
+      <SearchBar onSubmit={searchCountry} value={inputSearch} />
       {/* <FilterBar /> */}
       {loading && <LoadingSpinner />}
       <CountryGrid countries={filteredCountries} />
