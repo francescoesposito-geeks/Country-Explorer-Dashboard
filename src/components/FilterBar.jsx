@@ -23,7 +23,6 @@ export function FilterBar({
           <option value="Oceania">Oceania</option>
           <option value="South America">South America</option>
           <option value="North America">North America</option>
-          <option value="Antartica">Antartica</option>
         </select>
         <select
           value={valueSorting}

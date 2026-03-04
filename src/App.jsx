@@ -13,22 +13,25 @@ function App() {
   const [sorting, setSorting] = useState("");
 
   const filteredCountries = useMemo(() => {
-    let finalResult;
+    let finalResult = countries;
 
-    if (inputSearch === "") {
-      finalResult = countries;
-    } else {
-      finalResult = countries.filter(
+    if (inputSearch !== "") {
+      finalResult = finalResult.filter(
         (country) =>
           country.name.common.toLowerCase() === inputSearch.toLowerCase(),
       );
     }
+    if (continentChoice !== "") {
+      finalResult = finalResult.filter((country) => {
+        return country.continents[0] === continentChoice;
+      });
+    }
     if (sorting === "increasing") {
-      let arrayCountries = [...countries];
+      let arrayCountries = [...finalResult];
       finalResult = arrayCountries.sort((a, b) => a.population - b.population);
     }
     if (sorting === "decreasing") {
-      let arrayCountries = [...countries];
+      let arrayCountries = [...finalResult];
       finalResult = arrayCountries.sort((a, b) => b.population - a.population);
     }
 
@@ -42,7 +45,7 @@ function App() {
   function resetStates() {
     setContinentChoice("");
     setSorting("");
-    console.log("sorting", sorting);
+    setInputSearch("");
   }
 
   return (
