@@ -1,5 +1,6 @@
-import { useState } from "react";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
+
+const DATA_URL = `${import.meta.env.BASE_URL}countries.json`;
 
 export function useCountries() {
   const [countries, setCountries] = useState([]);
@@ -7,29 +8,24 @@ export function useCountries() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    async function fetchUrl() {
-      const url =
-        "https://restcountries.com/v3.1/all?fields=name,capital,population,continents,flags";
-
+    async function loadCountries() {
       try {
-        const response = await fetch(url);
+        const response = await fetch(DATA_URL);
         if (!response.ok) {
-          throw new Error("Errore HTTP: " + response.status);
+          throw new Error("HTTP error " + response.status);
         }
-
         const data = await response.json();
-        // finta promise per rallentare
-        await new Promise((r) => setTimeout(r, 1000));
-
         setCountries(data);
       } catch (error) {
         setError(error);
         console.error(error.message);
+      } finally {
+        setLoading(false);
       }
-      setLoading(false);
     }
 
-    fetchUrl();
+    loadCountries();
   }, []);
+
   return { countries, loading, error };
 }
