@@ -1,14 +1,14 @@
 import { CountryCard } from "./CountryCard";
-import "/src/countryGrid.css";
+import "../countryGrid.css";
 
-export function CountryGrid({ countries }) {
+export function CountryGrid({ countries, maxPopulation }) {
   return (
-    <ul>
-      <div className="gridCards">
-        {countries.map((country) => {
-          return <CountryCard country={country} />;
-        })}
-      </div>
+    <ul className="gridCards">
+      {countries.map((country) => (
+        <li key={country.code}>
+          <CountryCard country={country} maxPopulation={maxPopulation} />
+        </li>
+      ))}
     </ul>
   );
 }

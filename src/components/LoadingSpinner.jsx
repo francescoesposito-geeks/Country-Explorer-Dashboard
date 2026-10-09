@@ -1,12 +1,11 @@
 import Loading from "../assets/Loading.png";
-import "/src/loadingSpinner.css";
+import "../loadingSpinner.css";
 
 export function LoadingSpinner() {
   return (
-    <>
-      <div>
-        <img src={Loading} className="loadingSpinner" />
-      </div>
-    </>
+    <div className="loading" role="status">
+      <img src={Loading} className="loadingSpinner" alt="" />
+      <p>Loading countries…</p>
+    </div>
   );
 }
