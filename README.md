@@ -8,7 +8,7 @@ Dashboard React per esplorare 250 paesi e territori: ricerca per nome, filtro pe
 - Filtro per continente, con l'elenco dei continenti ricavato dai dati
 - Ordinamento per nome o per popolazione, crescente e decrescente
 - Pulsante per azzerare ricerca e filtri, attivo solo quando serve
-- Card con bandiera, capitale, continente, popolazione e una barra che confronta la popolazione con quella del paese più popoloso
+- Card con bandiera, capitale, continente, lingue, valuta, prefisso telefonico, superficie, densità (calcolata da popolazione e superficie) e popolazione, con una barra che la confronta con quella del paese più popoloso
 - Stati di caricamento, errore e "nessun risultato"
 - Layout responsive e tema chiaro o scuro in base alle impostazioni del sistema
 
@@ -59,7 +59,7 @@ src/
 
 Il progetto usava l'API pubblica REST Countries v3.1, che è stata dismessa e ora richiede un account con chiave API. Per far funzionare l'app senza chiavi, i dati sono in `public/countries.json` e vengono caricati con `fetch`, come una normale API.
 
-- Nomi, capitali e continenti: [mledoze/countries](https://github.com/mledoze/countries) (licenza ODbL)
+- Nomi, capitali, continenti, lingue, valute, prefissi e superficie: [mledoze/countries](https://github.com/mledoze/countries) (licenza ODbL)
 - Popolazione (stime 2020): [apilayer/restcountries](https://github.com/apilayer/restcountries) (licenza MPL-2.0)
 - Bandiere: [flagcdn.com](https://flagcdn.com)
 

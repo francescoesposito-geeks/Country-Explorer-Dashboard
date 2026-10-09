@@ -6,7 +6,20 @@
    "Kabul"
   ],
   "continent": "Asia",
-  "population": 38928341
+  "population": 38928341,
+  "languages": [
+   "Dari",
+   "Pashto",
+   "Turkmen"
+  ],
+  "currencies": [
+   {
+    "name": "Afghan afghani",
+    "symbol": "؋"
+   }
+  ],
+  "area": 652230,
+  "callingCode": "+93"
  },
  {
   "code": "AL",
@@ -15,7 +28,18 @@
    "Tirana"
   ],
   "continent": "Europe",
-  "population": 2837743
+  "population": 2837743,
+  "languages": [
+   "Albanian"
+  ],
+  "currencies": [
+   {
+    "name": "Albanian lek",
+    "symbol": "L"
+   }
+  ],
+  "area": 28748,
+  "callingCode": "+355"
  },
  {
   "code": "DZ",
@@ -24,7 +48,18 @@
    "Algiers"
   ],
   "continent": "Africa",
-  "population": 43851043
+  "population": 43851043,
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   {
+    "name": "Algerian dinar",
+    "symbol": "د.ج"
+   }
+  ],
+  "area": 2381741,
+  "callingCode": "+213"
  },
  {
   "code": "AS",
@@ -33,7 +68,19 @@
    "Pago Pago"
   ],
   "continent": "Oceania",
-  "population": 55197
+  "population": 55197,
+  "languages": [
+   "English",
+   "Samoan"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 199,
+  "callingCode": "+1684"
  },
  {
   "code": "AD",
@@ -42,7 +89,18 @@
    "Andorra la Vella"
   ],
   "continent": "Europe",
-  "population": 77265
+  "population": 77265,
+  "languages": [
+   "Catalan"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 468,
+  "callingCode": "+376"
  },
  {
   "code": "AO",
@@ -51,7 +109,18 @@
    "Luanda"
   ],
   "continent": "Africa",
-  "population": 32866268
+  "population": 32866268,
+  "languages": [
+   "Portuguese"
+  ],
+  "currencies": [
+   {
+    "name": "Angolan kwanza",
+    "symbol": "Kz"
+   }
+  ],
+  "area": 1246700,
+  "callingCode": "+244"
  },
  {
   "code": "AI",
@@ -60,14 +129,29 @@
    "The Valley"
   ],
   "continent": "North America",
-  "population": 13452
+  "population": 13452,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Eastern Caribbean dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 91,
+  "callingCode": "+1264"
  },
  {
   "code": "AQ",
   "name": "Antarctica",
   "capital": [],
   "continent": "Antarctica",
-  "population": 1000
+  "population": 1000,
+  "languages": [],
+  "currencies": [],
+  "area": 14000000,
+  "callingCode": null
  },
  {
   "code": "AG",
@@ -76,7 +160,18 @@
    "Saint John's"
   ],
   "continent": "North America",
-  "population": 97928
+  "population": 97928,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Eastern Caribbean dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 442,
+  "callingCode": "+1268"
  },
  {
   "code": "AR",
@@ -85,7 +180,19 @@
    "Buenos Aires"
   ],
   "continent": "South America",
-  "population": 45376763
+  "population": 45376763,
+  "languages": [
+   "Guaraní",
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Argentine peso",
+    "symbol": "$"
+   }
+  ],
+  "area": 2780400,
+  "callingCode": "+54"
  },
  {
   "code": "AM",
@@ -94,7 +201,18 @@
    "Yerevan"
   ],
   "continent": "Asia",
-  "population": 2963234
+  "population": 2963234,
+  "languages": [
+   "Armenian"
+  ],
+  "currencies": [
+   {
+    "name": "Armenian dram",
+    "symbol": "֏"
+   }
+  ],
+  "area": 29743,
+  "callingCode": "+374"
  },
  {
   "code": "AW",
@@ -103,7 +221,19 @@
    "Oranjestad"
   ],
   "continent": "North America",
-  "population": 106766
+  "population": 106766,
+  "languages": [
+   "Dutch",
+   "Papiamento"
+  ],
+  "currencies": [
+   {
+    "name": "Aruban florin",
+    "symbol": "ƒ"
+   }
+  ],
+  "area": 180,
+  "callingCode": "+297"
  },
  {
   "code": "AU",
@@ -112,7 +242,18 @@
    "Canberra"
   ],
   "continent": "Oceania",
-  "population": 25687041
+  "population": 25687041,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Australian dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 7692024,
+  "callingCode": "+61"
  },
  {
   "code": "AT",
@@ -121,7 +262,18 @@
    "Vienna"
   ],
   "continent": "Europe",
-  "population": 8917205
+  "population": 8917205,
+  "languages": [
+   "Austro-Bavarian German"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 83871,
+  "callingCode": "+43"
  },
  {
   "code": "AZ",
@@ -130,7 +282,19 @@
    "Baku"
   ],
   "continent": "Asia",
-  "population": 10110116
+  "population": 10110116,
+  "languages": [
+   "Azerbaijani",
+   "Russian"
+  ],
+  "currencies": [
+   {
+    "name": "Azerbaijani manat",
+    "symbol": "₼"
+   }
+  ],
+  "area": 86600,
+  "callingCode": "+994"
  },
  {
   "code": "BS",
@@ -139,7 +303,22 @@
    "Nassau"
   ],
   "continent": "North America",
-  "population": 393248
+  "population": 393248,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Bahamian dollar",
+    "symbol": "$"
+   },
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 13943,
+  "callingCode": "+1242"
  },
  {
   "code": "BH",
@@ -148,7 +327,18 @@
    "Manama"
   ],
   "continent": "Asia",
-  "population": 1701583
+  "population": 1701583,
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   {
+    "name": "Bahraini dinar",
+    "symbol": ".د.ب"
+   }
+  ],
+  "area": 765,
+  "callingCode": "+973"
  },
  {
   "code": "BD",
@@ -157,7 +347,18 @@
    "Dhaka"
   ],
   "continent": "Asia",
-  "population": 164689383
+  "population": 164689383,
+  "languages": [
+   "Bengali"
+  ],
+  "currencies": [
+   {
+    "name": "Bangladeshi taka",
+    "symbol": "৳"
+   }
+  ],
+  "area": 147570,
+  "callingCode": "+880"
  },
  {
   "code": "BB",
@@ -166,7 +367,18 @@
    "Bridgetown"
   ],
   "continent": "North America",
-  "population": 287371
+  "population": 287371,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Barbadian dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 430,
+  "callingCode": "+1246"
  },
  {
   "code": "BY",
@@ -175,7 +387,19 @@
    "Minsk"
   ],
   "continent": "Europe",
-  "population": 9398861
+  "population": 9398861,
+  "languages": [
+   "Belarusian",
+   "Russian"
+  ],
+  "currencies": [
+   {
+    "name": "Belarusian ruble",
+    "symbol": "Br"
+   }
+  ],
+  "area": 207600,
+  "callingCode": "+375"
  },
  {
   "code": "BE",
@@ -184,7 +408,20 @@
    "Brussels"
   ],
   "continent": "Europe",
-  "population": 11555997
+  "population": 11555997,
+  "languages": [
+   "German",
+   "French",
+   "Dutch"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 30528,
+  "callingCode": "+32"
  },
  {
   "code": "BZ",
@@ -193,7 +430,20 @@
    "Belmopan"
   ],
   "continent": "North America",
-  "population": 397621
+  "population": 397621,
+  "languages": [
+   "Belizean Creole",
+   "English",
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Belize dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 22966,
+  "callingCode": "+501"
  },
  {
   "code": "BJ",
@@ -202,7 +452,18 @@
    "Porto-Novo"
   ],
   "continent": "Africa",
-  "population": 12123198
+  "population": 12123198,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "West African CFA franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 112622,
+  "callingCode": "+229"
  },
  {
   "code": "BM",
@@ -211,7 +472,18 @@
    "Hamilton"
   ],
   "continent": "North America",
-  "population": 63903
+  "population": 63903,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Bermudian dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 54,
+  "callingCode": "+1441"
  },
  {
   "code": "BT",
@@ -220,7 +492,22 @@
    "Thimphu"
   ],
   "continent": "Asia",
-  "population": 771612
+  "population": 771612,
+  "languages": [
+   "Dzongkha"
+  ],
+  "currencies": [
+   {
+    "name": "Bhutanese ngultrum",
+    "symbol": "Nu."
+   },
+   {
+    "name": "Indian rupee",
+    "symbol": "₹"
+   }
+  ],
+  "area": 38394,
+  "callingCode": "+975"
  },
  {
   "code": "BO",
@@ -229,7 +516,21 @@
    "Sucre"
   ],
   "continent": "South America",
-  "population": 11673029
+  "population": 11673029,
+  "languages": [
+   "Aymara",
+   "Guaraní",
+   "Quechua",
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Bolivian boliviano",
+    "symbol": "Bs."
+   }
+  ],
+  "area": 1098581,
+  "callingCode": "+591"
  },
  {
   "code": "BA",
@@ -238,7 +539,20 @@
    "Sarajevo"
   ],
   "continent": "Europe",
-  "population": 3280815
+  "population": 3280815,
+  "languages": [
+   "Bosnian",
+   "Croatian",
+   "Serbian"
+  ],
+  "currencies": [
+   {
+    "name": "Bosnia and Herzegovina convertible mark",
+    "symbol": "KM"
+   }
+  ],
+  "area": 51209,
+  "callingCode": "+387"
  },
  {
   "code": "BW",
@@ -247,14 +561,32 @@
    "Gaborone"
   ],
   "continent": "Africa",
-  "population": 2351625
+  "population": 2351625,
+  "languages": [
+   "English",
+   "Tswana"
+  ],
+  "currencies": [
+   {
+    "name": "Botswana pula",
+    "symbol": "P"
+   }
+  ],
+  "area": 582000,
+  "callingCode": "+267"
  },
  {
   "code": "BV",
   "name": "Bouvet Island",
   "capital": [],
   "continent": "Antarctica",
-  "population": 0
+  "population": 0,
+  "languages": [
+   "Norwegian"
+  ],
+  "currencies": [],
+  "area": 49,
+  "callingCode": "+47"
  },
  {
   "code": "BR",
@@ -263,7 +595,18 @@
    "Brasília"
   ],
   "continent": "South America",
-  "population": 212559409
+  "population": 212559409,
+  "languages": [
+   "Portuguese"
+  ],
+  "currencies": [
+   {
+    "name": "Brazilian real",
+    "symbol": "R$"
+   }
+  ],
+  "area": 8515767,
+  "callingCode": "+55"
  },
  {
   "code": "IO",
@@ -272,7 +615,18 @@
    "Diego Garcia"
   ],
   "continent": "Africa",
-  "population": 3000
+  "population": 3000,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 60,
+  "callingCode": "+246"
  },
  {
   "code": "VG",
@@ -281,7 +635,18 @@
    "Road Town"
   ],
   "continent": "North America",
-  "population": 30237
+  "population": 30237,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 151,
+  "callingCode": "+1284"
  },
  {
   "code": "BN",
@@ -290,7 +655,22 @@
    "Bandar Seri Begawan"
   ],
   "continent": "Asia",
-  "population": 437483
+  "population": 437483,
+  "languages": [
+   "Malay"
+  ],
+  "currencies": [
+   {
+    "name": "Brunei dollar",
+    "symbol": "$"
+   },
+   {
+    "name": "Singapore dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 5765,
+  "callingCode": "+673"
  },
  {
   "code": "BG",
@@ -299,7 +679,18 @@
    "Sofia"
   ],
   "continent": "Europe",
-  "population": 6927288
+  "population": 6927288,
+  "languages": [
+   "Bulgarian"
+  ],
+  "currencies": [
+   {
+    "name": "Bulgarian lev",
+    "symbol": "лв"
+   }
+  ],
+  "area": 110879,
+  "callingCode": "+359"
  },
  {
   "code": "BF",
@@ -308,7 +699,18 @@
    "Ouagadougou"
   ],
   "continent": "Africa",
-  "population": 20903278
+  "population": 20903278,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "West African CFA franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 272967,
+  "callingCode": "+226"
  },
  {
   "code": "BI",
@@ -317,7 +719,19 @@
    "Gitega"
   ],
   "continent": "Africa",
-  "population": 11890781
+  "population": 11890781,
+  "languages": [
+   "French",
+   "Kirundi"
+  ],
+  "currencies": [
+   {
+    "name": "Burundian franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 27834,
+  "callingCode": "+257"
  },
  {
   "code": "KH",
@@ -326,7 +740,22 @@
    "Phnom Penh"
   ],
   "continent": "Asia",
-  "population": 16718971
+  "population": 16718971,
+  "languages": [
+   "Khmer"
+  ],
+  "currencies": [
+   {
+    "name": "Cambodian riel",
+    "symbol": "៛"
+   },
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 181035,
+  "callingCode": "+855"
  },
  {
   "code": "CM",
@@ -335,7 +764,19 @@
    "Yaoundé"
   ],
   "continent": "Africa",
-  "population": 26545864
+  "population": 26545864,
+  "languages": [
+   "English",
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Central African CFA franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 475442,
+  "callingCode": "+237"
  },
  {
   "code": "CA",
@@ -344,7 +785,19 @@
    "Ottawa"
   ],
   "continent": "North America",
-  "population": 38005238
+  "population": 38005238,
+  "languages": [
+   "English",
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Canadian dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 9984670,
+  "callingCode": "+1"
  },
  {
   "code": "CV",
@@ -353,7 +806,18 @@
    "Praia"
   ],
   "continent": "Africa",
-  "population": 555988
+  "population": 555988,
+  "languages": [
+   "Portuguese"
+  ],
+  "currencies": [
+   {
+    "name": "Cape Verdean escudo",
+    "symbol": "Esc"
+   }
+  ],
+  "area": 4033,
+  "callingCode": "+238"
  },
  {
   "code": "BQ",
@@ -364,7 +828,20 @@
    "The Bottom"
   ],
   "continent": "North America",
-  "population": 17408
+  "population": 17408,
+  "languages": [
+   "English",
+   "Dutch",
+   "Papiamento"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 328,
+  "callingCode": "+599"
  },
  {
   "code": "KY",
@@ -373,7 +850,18 @@
    "George Town"
   ],
   "continent": "North America",
-  "population": 65720
+  "population": 65720,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Cayman Islands dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 264,
+  "callingCode": "+1345"
  },
  {
   "code": "CF",
@@ -382,7 +870,19 @@
    "Bangui"
   ],
   "continent": "Africa",
-  "population": 4829764
+  "population": 4829764,
+  "languages": [
+   "French",
+   "Sango"
+  ],
+  "currencies": [
+   {
+    "name": "Central African CFA franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 622984,
+  "callingCode": "+236"
  },
  {
   "code": "TD",
@@ -391,7 +891,19 @@
    "N'Djamena"
   ],
   "continent": "Africa",
-  "population": 16425859
+  "population": 16425859,
+  "languages": [
+   "Arabic",
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Central African CFA franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 1284000,
+  "callingCode": "+235"
  },
  {
   "code": "CL",
@@ -400,7 +912,18 @@
    "Santiago"
   ],
   "continent": "South America",
-  "population": 19116209
+  "population": 19116209,
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Chilean peso",
+    "symbol": "$"
+   }
+  ],
+  "area": 756102,
+  "callingCode": "+56"
  },
  {
   "code": "CN",
@@ -409,7 +932,18 @@
    "Beijing"
   ],
   "continent": "Asia",
-  "population": 1402112000
+  "population": 1402112000,
+  "languages": [
+   "Chinese"
+  ],
+  "currencies": [
+   {
+    "name": "Chinese yuan",
+    "symbol": "¥"
+   }
+  ],
+  "area": 9706961,
+  "callingCode": "+86"
  },
  {
   "code": "CX",
@@ -418,7 +952,18 @@
    "Flying Fish Cove"
   ],
   "continent": "Oceania",
-  "population": 2072
+  "population": 2072,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Australian dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 135,
+  "callingCode": "+61"
  },
  {
   "code": "CC",
@@ -427,7 +972,18 @@
    "West Island"
   ],
   "continent": "Oceania",
-  "population": 550
+  "population": 550,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Australian dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 14,
+  "callingCode": "+61"
  },
  {
   "code": "CO",
@@ -436,7 +992,18 @@
    "Bogotá"
   ],
   "continent": "South America",
-  "population": 50882884
+  "population": 50882884,
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Colombian peso",
+    "symbol": "$"
+   }
+  ],
+  "area": 1141748,
+  "callingCode": "+57"
  },
  {
   "code": "KM",
@@ -445,7 +1012,20 @@
    "Moroni"
   ],
   "continent": "Africa",
-  "population": 869595
+  "population": 869595,
+  "languages": [
+   "Arabic",
+   "French",
+   "Comorian"
+  ],
+  "currencies": [
+   {
+    "name": "Comorian franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 1862,
+  "callingCode": "+269"
  },
  {
   "code": "CK",
@@ -454,7 +1034,23 @@
    "Avarua"
   ],
   "continent": "Oceania",
-  "population": 18100
+  "population": 18100,
+  "languages": [
+   "English",
+   "Cook Islands Māori"
+  ],
+  "currencies": [
+   {
+    "name": "Cook Islands dollar",
+    "symbol": "$"
+   },
+   {
+    "name": "New Zealand dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 236,
+  "callingCode": "+682"
  },
  {
   "code": "CR",
@@ -463,7 +1059,18 @@
    "San José"
   ],
   "continent": "North America",
-  "population": 5094114
+  "population": 5094114,
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Costa Rican colón",
+    "symbol": "₡"
+   }
+  ],
+  "area": 51100,
+  "callingCode": "+506"
  },
  {
   "code": "HR",
@@ -472,7 +1079,18 @@
    "Zagreb"
   ],
   "continent": "Europe",
-  "population": 4047200
+  "population": 4047200,
+  "languages": [
+   "Croatian"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 56594,
+  "callingCode": "+385"
  },
  {
   "code": "CU",
@@ -481,7 +1099,22 @@
    "Havana"
   ],
   "continent": "North America",
-  "population": 11326616
+  "population": 11326616,
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Cuban convertible peso",
+    "symbol": "$"
+   },
+   {
+    "name": "Cuban peso",
+    "symbol": "$"
+   }
+  ],
+  "area": 109884,
+  "callingCode": "+53"
  },
  {
   "code": "CW",
@@ -490,7 +1123,20 @@
    "Willemstad"
   ],
   "continent": "North America",
-  "population": 155014
+  "population": 155014,
+  "languages": [
+   "English",
+   "Dutch",
+   "Papiamento"
+  ],
+  "currencies": [
+   {
+    "name": "Netherlands Antillean guilder",
+    "symbol": "ƒ"
+   }
+  ],
+  "area": 444,
+  "callingCode": "+599"
  },
  {
   "code": "CY",
@@ -499,7 +1145,19 @@
    "Nicosia"
   ],
   "continent": "Europe",
-  "population": 1207361
+  "population": 1207361,
+  "languages": [
+   "Greek",
+   "Turkish"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 9251,
+  "callingCode": "+357"
  },
  {
   "code": "CZ",
@@ -508,7 +1166,19 @@
    "Prague"
   ],
   "continent": "Europe",
-  "population": 10698896
+  "population": 10698896,
+  "languages": [
+   "Czech",
+   "Slovak"
+  ],
+  "currencies": [
+   {
+    "name": "Czech koruna",
+    "symbol": "Kč"
+   }
+  ],
+  "area": 78865,
+  "callingCode": "+420"
  },
  {
   "code": "CD",
@@ -517,7 +1187,22 @@
    "Kinshasa"
   ],
   "continent": "Africa",
-  "population": 89561404
+  "population": 89561404,
+  "languages": [
+   "French",
+   "Kikongo",
+   "Lingala",
+   "Tshiluba",
+   "Swahili"
+  ],
+  "currencies": [
+   {
+    "name": "Congolese franc",
+    "symbol": "FC"
+   }
+  ],
+  "area": 2344858,
+  "callingCode": "+243"
  },
  {
   "code": "DK",
@@ -526,7 +1211,18 @@
    "Copenhagen"
   ],
   "continent": "Europe",
-  "population": 5831404
+  "population": 5831404,
+  "languages": [
+   "Danish"
+  ],
+  "currencies": [
+   {
+    "name": "Danish krone",
+    "symbol": "kr"
+   }
+  ],
+  "area": 43094,
+  "callingCode": "+45"
  },
  {
   "code": "DJ",
@@ -535,7 +1231,19 @@
    "Djibouti"
   ],
   "continent": "Africa",
-  "population": 988002
+  "population": 988002,
+  "languages": [
+   "Arabic",
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Djiboutian franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 23200,
+  "callingCode": "+253"
  },
  {
   "code": "DM",
@@ -544,7 +1252,18 @@
    "Roseau"
   ],
   "continent": "North America",
-  "population": 71991
+  "population": 71991,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Eastern Caribbean dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 751,
+  "callingCode": "+1767"
  },
  {
   "code": "DO",
@@ -553,7 +1272,18 @@
    "Santo Domingo"
   ],
   "continent": "North America",
-  "population": 10847904
+  "population": 10847904,
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Dominican peso",
+    "symbol": "$"
+   }
+  ],
+  "area": 48671,
+  "callingCode": "+1"
  },
  {
   "code": "EC",
@@ -562,7 +1292,18 @@
    "Quito"
   ],
   "continent": "South America",
-  "population": 17643060
+  "population": 17643060,
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 276841,
+  "callingCode": "+593"
  },
  {
   "code": "EG",
@@ -571,7 +1312,18 @@
    "Cairo"
   ],
   "continent": "Africa",
-  "population": 102334403
+  "population": 102334403,
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   {
+    "name": "Egyptian pound",
+    "symbol": "£"
+   }
+  ],
+  "area": 1002450,
+  "callingCode": "+20"
  },
  {
   "code": "SV",
@@ -580,7 +1332,18 @@
    "San Salvador"
   ],
   "continent": "North America",
-  "population": 6486201
+  "population": 6486201,
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 21041,
+  "callingCode": "+503"
  },
  {
   "code": "GQ",
@@ -589,7 +1352,20 @@
    "Malabo"
   ],
   "continent": "Africa",
-  "population": 1402985
+  "population": 1402985,
+  "languages": [
+   "French",
+   "Portuguese",
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Central African CFA franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 28051,
+  "callingCode": "+240"
  },
  {
   "code": "ER",
@@ -598,7 +1374,20 @@
    "Asmara"
   ],
   "continent": "Africa",
-  "population": 5352000
+  "population": 5352000,
+  "languages": [
+   "Arabic",
+   "English",
+   "Tigrinya"
+  ],
+  "currencies": [
+   {
+    "name": "Eritrean nakfa",
+    "symbol": "Nfk"
+   }
+  ],
+  "area": 117600,
+  "callingCode": "+291"
  },
  {
   "code": "EE",
@@ -607,7 +1396,18 @@
    "Tallinn"
   ],
   "continent": "Europe",
-  "population": 1331057
+  "population": 1331057,
+  "languages": [
+   "Estonian"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 45227,
+  "callingCode": "+372"
  },
  {
   "code": "SZ",
@@ -616,7 +1416,23 @@
    "Lobamba"
   ],
   "continent": "Africa",
-  "population": 1160164
+  "population": 1160164,
+  "languages": [
+   "English",
+   "Swazi"
+  ],
+  "currencies": [
+   {
+    "name": "Swazi lilangeni",
+    "symbol": "L"
+   },
+   {
+    "name": "South African rand",
+    "symbol": "R"
+   }
+  ],
+  "area": 17364,
+  "callingCode": "+268"
  },
  {
   "code": "ET",
@@ -625,7 +1441,18 @@
    "Addis Ababa"
   ],
   "continent": "Africa",
-  "population": 114963583
+  "population": 114963583,
+  "languages": [
+   "Amharic"
+  ],
+  "currencies": [
+   {
+    "name": "Ethiopian birr",
+    "symbol": "Br"
+   }
+  ],
+  "area": 1104300,
+  "callingCode": "+251"
  },
  {
   "code": "FK",
@@ -634,7 +1461,18 @@
    "Stanley"
   ],
   "continent": "South America",
-  "population": 2563
+  "population": 2563,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Falkland Islands pound",
+    "symbol": "£"
+   }
+  ],
+  "area": 12173,
+  "callingCode": "+500"
  },
  {
   "code": "FO",
@@ -643,7 +1481,23 @@
    "Tórshavn"
   ],
   "continent": "Europe",
-  "population": 48865
+  "population": 48865,
+  "languages": [
+   "Danish",
+   "Faroese"
+  ],
+  "currencies": [
+   {
+    "name": "Danish krone",
+    "symbol": "kr"
+   },
+   {
+    "name": "Faroese króna",
+    "symbol": "kr"
+   }
+  ],
+  "area": 1393,
+  "callingCode": "+298"
  },
  {
   "code": "FJ",
@@ -652,7 +1506,20 @@
    "Suva"
   ],
   "continent": "Oceania",
-  "population": 896444
+  "population": 896444,
+  "languages": [
+   "English",
+   "Fijian",
+   "Fiji Hindi"
+  ],
+  "currencies": [
+   {
+    "name": "Fijian dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 18272,
+  "callingCode": "+679"
  },
  {
   "code": "FI",
@@ -661,7 +1528,19 @@
    "Helsinki"
   ],
   "continent": "Europe",
-  "population": 5530719
+  "population": 5530719,
+  "languages": [
+   "Finnish",
+   "Swedish"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 338424,
+  "callingCode": "+358"
  },
  {
   "code": "FR",
@@ -670,7 +1549,18 @@
    "Paris"
   ],
   "continent": "Europe",
-  "population": 67391582
+  "population": 67391582,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 551695,
+  "callingCode": "+33"
  },
  {
   "code": "GF",
@@ -679,7 +1569,18 @@
    "Cayenne"
   ],
   "continent": "South America",
-  "population": 254541
+  "population": 254541,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 83534,
+  "callingCode": "+594"
  },
  {
   "code": "PF",
@@ -688,7 +1589,18 @@
    "Papeetē"
   ],
   "continent": "Oceania",
-  "population": 280904
+  "population": 280904,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "CFP franc",
+    "symbol": "₣"
+   }
+  ],
+  "area": 4167,
+  "callingCode": "+689"
  },
  {
   "code": "TF",
@@ -697,7 +1609,18 @@
    "Port-aux-Français"
   ],
   "continent": "Antarctica",
-  "population": 140
+  "population": 140,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 7747,
+  "callingCode": "+262"
  },
  {
   "code": "GA",
@@ -706,7 +1629,18 @@
    "Libreville"
   ],
   "continent": "Africa",
-  "population": 2225728
+  "population": 2225728,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Central African CFA franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 267668,
+  "callingCode": "+241"
  },
  {
   "code": "GM",
@@ -715,7 +1649,18 @@
    "Banjul"
   ],
   "continent": "Africa",
-  "population": 2416664
+  "population": 2416664,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "dalasi",
+    "symbol": "D"
+   }
+  ],
+  "area": 10689,
+  "callingCode": "+220"
  },
  {
   "code": "GE",
@@ -724,7 +1669,18 @@
    "Tbilisi"
   ],
   "continent": "Asia",
-  "population": 3714000
+  "population": 3714000,
+  "languages": [
+   "Georgian"
+  ],
+  "currencies": [
+   {
+    "name": "lari",
+    "symbol": "₾"
+   }
+  ],
+  "area": 69700,
+  "callingCode": "+995"
  },
  {
   "code": "DE",
@@ -733,7 +1689,18 @@
    "Berlin"
   ],
   "continent": "Europe",
-  "population": 83240525
+  "population": 83240525,
+  "languages": [
+   "German"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 357114,
+  "callingCode": "+49"
  },
  {
   "code": "GH",
@@ -742,7 +1709,18 @@
    "Accra"
   ],
   "continent": "Africa",
-  "population": 31072945
+  "population": 31072945,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Ghanaian cedi",
+    "symbol": "₵"
+   }
+  ],
+  "area": 238533,
+  "callingCode": "+233"
  },
  {
   "code": "GI",
@@ -751,7 +1729,18 @@
    "Gibraltar"
   ],
   "continent": "Europe",
-  "population": 33691
+  "population": 33691,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Gibraltar pound",
+    "symbol": "£"
+   }
+  ],
+  "area": 6,
+  "callingCode": "+350"
  },
  {
   "code": "GR",
@@ -760,7 +1749,18 @@
    "Athens"
   ],
   "continent": "Europe",
-  "population": 10715549
+  "population": 10715549,
+  "languages": [
+   "Greek"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 131990,
+  "callingCode": "+30"
  },
  {
   "code": "GL",
@@ -769,7 +1769,18 @@
    "Nuuk"
   ],
   "continent": "North America",
-  "population": 56367
+  "population": 56367,
+  "languages": [
+   "Greenlandic"
+  ],
+  "currencies": [
+   {
+    "name": "krone",
+    "symbol": "kr."
+   }
+  ],
+  "area": 2166086,
+  "callingCode": "+299"
  },
  {
   "code": "GD",
@@ -778,7 +1789,18 @@
    "St. George's"
   ],
   "continent": "North America",
-  "population": 112519
+  "population": 112519,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Eastern Caribbean dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 344,
+  "callingCode": "+1473"
  },
  {
   "code": "GP",
@@ -787,7 +1809,18 @@
    "Basse-Terre"
   ],
   "continent": "North America",
-  "population": 400132
+  "population": 400132,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 1628,
+  "callingCode": "+590"
  },
  {
   "code": "GU",
@@ -796,7 +1829,20 @@
    "Hagåtña"
   ],
   "continent": "Oceania",
-  "population": 168783
+  "population": 168783,
+  "languages": [
+   "Chamorro",
+   "English",
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 549,
+  "callingCode": "+1671"
  },
  {
   "code": "GT",
@@ -805,7 +1851,18 @@
    "Guatemala City"
   ],
   "continent": "North America",
-  "population": 16858333
+  "population": 16858333,
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Guatemalan quetzal",
+    "symbol": "Q"
+   }
+  ],
+  "area": 108889,
+  "callingCode": "+502"
  },
  {
   "code": "GG",
@@ -814,7 +1871,24 @@
    "St. Peter Port"
   ],
   "continent": "Europe",
-  "population": 62999
+  "population": 62999,
+  "languages": [
+   "English",
+   "French",
+   "Guernésiais"
+  ],
+  "currencies": [
+   {
+    "name": "British pound",
+    "symbol": "£"
+   },
+   {
+    "name": "Guernsey pound",
+    "symbol": "£"
+   }
+  ],
+  "area": 78,
+  "callingCode": "+44"
  },
  {
   "code": "GN",
@@ -823,7 +1897,18 @@
    "Conakry"
   ],
   "continent": "Africa",
-  "population": 13132792
+  "population": 13132792,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Guinean franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 245857,
+  "callingCode": "+224"
  },
  {
   "code": "GW",
@@ -832,7 +1917,19 @@
    "Bissau"
   ],
   "continent": "Africa",
-  "population": 1967998
+  "population": 1967998,
+  "languages": [
+   "Portuguese",
+   "Upper Guinea Creole"
+  ],
+  "currencies": [
+   {
+    "name": "West African CFA franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 36125,
+  "callingCode": "+245"
  },
  {
   "code": "GY",
@@ -841,7 +1938,18 @@
    "Georgetown"
   ],
   "continent": "South America",
-  "population": 786559
+  "population": 786559,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Guyanese dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 214969,
+  "callingCode": "+592"
  },
  {
   "code": "HT",
@@ -850,14 +1958,32 @@
    "Port-au-Prince"
   ],
   "continent": "North America",
-  "population": 11402533
+  "population": 11402533,
+  "languages": [
+   "French",
+   "Haitian Creole"
+  ],
+  "currencies": [
+   {
+    "name": "Haitian gourde",
+    "symbol": "G"
+   }
+  ],
+  "area": 27750,
+  "callingCode": "+509"
  },
  {
   "code": "HM",
   "name": "Heard Island and McDonald Islands",
   "capital": [],
   "continent": "Antarctica",
-  "population": 0
+  "population": 0,
+  "languages": [
+   "English"
+  ],
+  "currencies": [],
+  "area": 412,
+  "callingCode": null
  },
  {
   "code": "HN",
@@ -866,7 +1992,18 @@
    "Tegucigalpa"
   ],
   "continent": "North America",
-  "population": 9904608
+  "population": 9904608,
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Honduran lempira",
+    "symbol": "L"
+   }
+  ],
+  "area": 112492,
+  "callingCode": "+504"
  },
  {
   "code": "HK",
@@ -875,7 +2012,19 @@
    "City of Victoria"
   ],
   "continent": "Asia",
-  "population": 7481800
+  "population": 7481800,
+  "languages": [
+   "English",
+   "Chinese"
+  ],
+  "currencies": [
+   {
+    "name": "Hong Kong dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 1104,
+  "callingCode": "+852"
  },
  {
   "code": "HU",
@@ -884,7 +2033,18 @@
    "Budapest"
   ],
   "continent": "Europe",
-  "population": 9749763
+  "population": 9749763,
+  "languages": [
+   "Hungarian"
+  ],
+  "currencies": [
+   {
+    "name": "Hungarian forint",
+    "symbol": "Ft"
+   }
+  ],
+  "area": 93028,
+  "callingCode": "+36"
  },
  {
   "code": "IS",
@@ -893,7 +2053,18 @@
    "Reykjavik"
   ],
   "continent": "Europe",
-  "population": 366425
+  "population": 366425,
+  "languages": [
+   "Icelandic"
+  ],
+  "currencies": [
+   {
+    "name": "Icelandic króna",
+    "symbol": "kr"
+   }
+  ],
+  "area": 103000,
+  "callingCode": "+354"
  },
  {
   "code": "IN",
@@ -902,7 +2073,20 @@
    "New Delhi"
   ],
   "continent": "Asia",
-  "population": 1380004385
+  "population": 1380004385,
+  "languages": [
+   "English",
+   "Hindi",
+   "Tamil"
+  ],
+  "currencies": [
+   {
+    "name": "Indian rupee",
+    "symbol": "₹"
+   }
+  ],
+  "area": 3287590,
+  "callingCode": "+91"
  },
  {
   "code": "ID",
@@ -911,7 +2095,18 @@
    "Jakarta"
   ],
   "continent": "Asia",
-  "population": 273523621
+  "population": 273523621,
+  "languages": [
+   "Indonesian"
+  ],
+  "currencies": [
+   {
+    "name": "Indonesian rupiah",
+    "symbol": "Rp"
+   }
+  ],
+  "area": 1904569,
+  "callingCode": "+62"
  },
  {
   "code": "IR",
@@ -920,7 +2115,18 @@
    "Tehran"
   ],
   "continent": "Asia",
-  "population": 83992953
+  "population": 83992953,
+  "languages": [
+   "Persian (Farsi)"
+  ],
+  "currencies": [
+   {
+    "name": "Iranian rial",
+    "symbol": "﷼"
+   }
+  ],
+  "area": 1648195,
+  "callingCode": "+98"
  },
  {
   "code": "IQ",
@@ -929,7 +2135,20 @@
    "Baghdad"
   ],
   "continent": "Asia",
-  "population": 40222503
+  "population": 40222503,
+  "languages": [
+   "Arabic",
+   "Aramaic",
+   "Sorani"
+  ],
+  "currencies": [
+   {
+    "name": "Iraqi dinar",
+    "symbol": "ع.د"
+   }
+  ],
+  "area": 438317,
+  "callingCode": "+964"
  },
  {
   "code": "IE",
@@ -938,7 +2157,19 @@
    "Dublin"
   ],
   "continent": "Europe",
-  "population": 4994724
+  "population": 4994724,
+  "languages": [
+   "English",
+   "Irish"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 70273,
+  "callingCode": "+353"
  },
  {
   "code": "IM",
@@ -947,7 +2178,23 @@
    "Douglas"
   ],
   "continent": "Europe",
-  "population": 85032
+  "population": 85032,
+  "languages": [
+   "English",
+   "Manx"
+  ],
+  "currencies": [
+   {
+    "name": "British pound",
+    "symbol": "£"
+   },
+   {
+    "name": "Manx pound",
+    "symbol": "£"
+   }
+  ],
+  "area": 572,
+  "callingCode": "+44"
  },
  {
   "code": "IL",
@@ -956,7 +2203,19 @@
    "Jerusalem"
   ],
   "continent": "Asia",
-  "population": 9216900
+  "population": 9216900,
+  "languages": [
+   "Arabic",
+   "Hebrew"
+  ],
+  "currencies": [
+   {
+    "name": "Israeli new shekel",
+    "symbol": "₪"
+   }
+  ],
+  "area": 20770,
+  "callingCode": "+972"
  },
  {
   "code": "IT",
@@ -965,7 +2224,18 @@
    "Rome"
   ],
   "continent": "Europe",
-  "population": 59554023
+  "population": 59554023,
+  "languages": [
+   "Italian"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 301336,
+  "callingCode": "+39"
  },
  {
   "code": "CI",
@@ -974,7 +2244,18 @@
    "Yamoussoukro"
   ],
   "continent": "Africa",
-  "population": 26378275
+  "population": 26378275,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "West African CFA franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 322463,
+  "callingCode": "+225"
  },
  {
   "code": "JM",
@@ -983,7 +2264,19 @@
    "Kingston"
   ],
   "continent": "North America",
-  "population": 2961161
+  "population": 2961161,
+  "languages": [
+   "English",
+   "Jamaican Patois"
+  ],
+  "currencies": [
+   {
+    "name": "Jamaican dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 10991,
+  "callingCode": "+1876"
  },
  {
   "code": "JP",
@@ -992,7 +2285,18 @@
    "Tokyo"
   ],
   "continent": "Asia",
-  "population": 125836021
+  "population": 125836021,
+  "languages": [
+   "Japanese"
+  ],
+  "currencies": [
+   {
+    "name": "Japanese yen",
+    "symbol": "¥"
+   }
+  ],
+  "area": 377930,
+  "callingCode": "+81"
  },
  {
   "code": "JE",
@@ -1001,7 +2305,24 @@
    "Saint Helier"
   ],
   "continent": "Europe",
-  "population": 100800
+  "population": 100800,
+  "languages": [
+   "English",
+   "French",
+   "Jèrriais"
+  ],
+  "currencies": [
+   {
+    "name": "British pound",
+    "symbol": "£"
+   },
+   {
+    "name": "Jersey pound",
+    "symbol": "£"
+   }
+  ],
+  "area": 116,
+  "callingCode": "+44"
  },
  {
   "code": "JO",
@@ -1010,7 +2331,18 @@
    "Amman"
   ],
   "continent": "Asia",
-  "population": 10203140
+  "population": 10203140,
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   {
+    "name": "Jordanian dinar",
+    "symbol": "د.ا"
+   }
+  ],
+  "area": 89342,
+  "callingCode": "+962"
  },
  {
   "code": "KZ",
@@ -1019,7 +2351,19 @@
    "Astana"
   ],
   "continent": "Asia",
-  "population": 18754440
+  "population": 18754440,
+  "languages": [
+   "Kazakh",
+   "Russian"
+  ],
+  "currencies": [
+   {
+    "name": "Kazakhstani tenge",
+    "symbol": "₸"
+   }
+  ],
+  "area": 2724900,
+  "callingCode": "+7"
  },
  {
   "code": "KE",
@@ -1028,7 +2372,19 @@
    "Nairobi"
   ],
   "continent": "Africa",
-  "population": 53771300
+  "population": 53771300,
+  "languages": [
+   "English",
+   "Swahili"
+  ],
+  "currencies": [
+   {
+    "name": "Kenyan shilling",
+    "symbol": "Sh"
+   }
+  ],
+  "area": 580367,
+  "callingCode": "+254"
  },
  {
   "code": "KI",
@@ -1037,7 +2393,23 @@
    "South Tarawa"
   ],
   "continent": "Oceania",
-  "population": 119446
+  "population": 119446,
+  "languages": [
+   "English",
+   "Gilbertese"
+  ],
+  "currencies": [
+   {
+    "name": "Australian dollar",
+    "symbol": "$"
+   },
+   {
+    "name": "Kiribati dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 811,
+  "callingCode": "+686"
  },
  {
   "code": "XK",
@@ -1046,7 +2418,19 @@
    "Pristina"
   ],
   "continent": "Europe",
-  "population": 1775378
+  "population": 1775378,
+  "languages": [
+   "Albanian",
+   "Serbian"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 10908,
+  "callingCode": "+383"
  },
  {
   "code": "KW",
@@ -1055,7 +2439,18 @@
    "Kuwait City"
   ],
   "continent": "Asia",
-  "population": 4270563
+  "population": 4270563,
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   {
+    "name": "Kuwaiti dinar",
+    "symbol": "د.ك"
+   }
+  ],
+  "area": 17818,
+  "callingCode": "+965"
  },
  {
   "code": "KG",
@@ -1064,7 +2459,19 @@
    "Bishkek"
   ],
   "continent": "Asia",
-  "population": 6591600
+  "population": 6591600,
+  "languages": [
+   "Kyrgyz",
+   "Russian"
+  ],
+  "currencies": [
+   {
+    "name": "Kyrgyzstani som",
+    "symbol": "с"
+   }
+  ],
+  "area": 199951,
+  "callingCode": "+996"
  },
  {
   "code": "LA",
@@ -1073,7 +2480,18 @@
    "Vientiane"
   ],
   "continent": "Asia",
-  "population": 7275556
+  "population": 7275556,
+  "languages": [
+   "Lao"
+  ],
+  "currencies": [
+   {
+    "name": "Lao kip",
+    "symbol": "₭"
+   }
+  ],
+  "area": 236800,
+  "callingCode": "+856"
  },
  {
   "code": "LV",
@@ -1082,7 +2500,18 @@
    "Riga"
   ],
   "continent": "Europe",
-  "population": 1901548
+  "population": 1901548,
+  "languages": [
+   "Latvian"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 64559,
+  "callingCode": "+371"
  },
  {
   "code": "LB",
@@ -1091,7 +2520,19 @@
    "Beirut"
   ],
   "continent": "Asia",
-  "population": 6825442
+  "population": 6825442,
+  "languages": [
+   "Arabic",
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Lebanese pound",
+    "symbol": "ل.ل"
+   }
+  ],
+  "area": 10452,
+  "callingCode": "+961"
  },
  {
   "code": "LS",
@@ -1100,7 +2541,23 @@
    "Maseru"
   ],
   "continent": "Africa",
-  "population": 2142252
+  "population": 2142252,
+  "languages": [
+   "English",
+   "Sotho"
+  ],
+  "currencies": [
+   {
+    "name": "Lesotho loti",
+    "symbol": "L"
+   },
+   {
+    "name": "South African rand",
+    "symbol": "R"
+   }
+  ],
+  "area": 30355,
+  "callingCode": "+266"
  },
  {
   "code": "LR",
@@ -1109,7 +2566,18 @@
    "Monrovia"
   ],
   "continent": "Africa",
-  "population": 5057677
+  "population": 5057677,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Liberian dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 111369,
+  "callingCode": "+231"
  },
  {
   "code": "LY",
@@ -1118,7 +2586,18 @@
    "Tripoli"
   ],
   "continent": "Africa",
-  "population": 6871287
+  "population": 6871287,
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   {
+    "name": "Libyan dinar",
+    "symbol": "ل.د"
+   }
+  ],
+  "area": 1759540,
+  "callingCode": "+218"
  },
  {
   "code": "LI",
@@ -1127,7 +2606,18 @@
    "Vaduz"
   ],
   "continent": "Europe",
-  "population": 38137
+  "population": 38137,
+  "languages": [
+   "German"
+  ],
+  "currencies": [
+   {
+    "name": "Swiss franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 160,
+  "callingCode": "+423"
  },
  {
   "code": "LT",
@@ -1136,7 +2626,18 @@
    "Vilnius"
   ],
   "continent": "Europe",
-  "population": 2794700
+  "population": 2794700,
+  "languages": [
+   "Lithuanian"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 65300,
+  "callingCode": "+370"
  },
  {
   "code": "LU",
@@ -1145,14 +2646,39 @@
    "Luxembourg"
   ],
   "continent": "Europe",
-  "population": 632275
+  "population": 632275,
+  "languages": [
+   "German",
+   "French",
+   "Luxembourgish"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 2586,
+  "callingCode": "+352"
  },
  {
   "code": "MO",
   "name": "Macau",
   "capital": [],
   "continent": "Asia",
-  "population": 649342
+  "population": 649342,
+  "languages": [
+   "Portuguese",
+   "Chinese"
+  ],
+  "currencies": [
+   {
+    "name": "Macanese pataca",
+    "symbol": "P"
+   }
+  ],
+  "area": 30,
+  "callingCode": "+853"
  },
  {
   "code": "MG",
@@ -1161,7 +2687,19 @@
    "Antananarivo"
   ],
   "continent": "Africa",
-  "population": 27691019
+  "population": 27691019,
+  "languages": [
+   "French",
+   "Malagasy"
+  ],
+  "currencies": [
+   {
+    "name": "Malagasy ariary",
+    "symbol": "Ar"
+   }
+  ],
+  "area": 587041,
+  "callingCode": "+261"
  },
  {
   "code": "MW",
@@ -1170,7 +2708,19 @@
    "Lilongwe"
   ],
   "continent": "Africa",
-  "population": 19129955
+  "population": 19129955,
+  "languages": [
+   "English",
+   "Chewa"
+  ],
+  "currencies": [
+   {
+    "name": "Malawian kwacha",
+    "symbol": "MK"
+   }
+  ],
+  "area": 118484,
+  "callingCode": "+265"
  },
  {
   "code": "MY",
@@ -1179,7 +2729,19 @@
    "Kuala Lumpur"
   ],
   "continent": "Asia",
-  "population": 32365998
+  "population": 32365998,
+  "languages": [
+   "English",
+   "Malay"
+  ],
+  "currencies": [
+   {
+    "name": "Malaysian ringgit",
+    "symbol": "RM"
+   }
+  ],
+  "area": 330803,
+  "callingCode": "+60"
  },
  {
   "code": "MV",
@@ -1188,7 +2750,18 @@
    "Malé"
   ],
   "continent": "Asia",
-  "population": 540542
+  "population": 540542,
+  "languages": [
+   "Maldivian"
+  ],
+  "currencies": [
+   {
+    "name": "Maldivian rufiyaa",
+    "symbol": ".ރ"
+   }
+  ],
+  "area": 300,
+  "callingCode": "+960"
  },
  {
   "code": "ML",
@@ -1197,7 +2770,18 @@
    "Bamako"
   ],
   "continent": "Africa",
-  "population": 20250834
+  "population": 20250834,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "West African CFA franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 1240192,
+  "callingCode": "+223"
  },
  {
   "code": "MT",
@@ -1206,7 +2790,19 @@
    "Valletta"
   ],
   "continent": "Europe",
-  "population": 525285
+  "population": 525285,
+  "languages": [
+   "English",
+   "Maltese"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 316,
+  "callingCode": "+356"
  },
  {
   "code": "MH",
@@ -1215,7 +2811,19 @@
    "Majuro"
   ],
   "continent": "Oceania",
-  "population": 59194
+  "population": 59194,
+  "languages": [
+   "English",
+   "Marshallese"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 181,
+  "callingCode": "+692"
  },
  {
   "code": "MQ",
@@ -1224,7 +2832,18 @@
    "Fort-de-France"
   ],
   "continent": "North America",
-  "population": 378243
+  "population": 378243,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 1128,
+  "callingCode": "+596"
  },
  {
   "code": "MR",
@@ -1233,7 +2852,18 @@
    "Nouakchott"
   ],
   "continent": "Africa",
-  "population": 4649660
+  "population": 4649660,
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   {
+    "name": "Mauritanian ouguiya",
+    "symbol": "UM"
+   }
+  ],
+  "area": 1030700,
+  "callingCode": "+222"
  },
  {
   "code": "MU",
@@ -1242,7 +2872,20 @@
    "Port Louis"
   ],
   "continent": "Africa",
-  "population": 1265740
+  "population": 1265740,
+  "languages": [
+   "English",
+   "French",
+   "Mauritian Creole"
+  ],
+  "currencies": [
+   {
+    "name": "Mauritian rupee",
+    "symbol": "₨"
+   }
+  ],
+  "area": 2040,
+  "callingCode": "+230"
  },
  {
   "code": "YT",
@@ -1251,7 +2894,18 @@
    "Mamoudzou"
   ],
   "continent": "Africa",
-  "population": 226915
+  "population": 226915,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 374,
+  "callingCode": "+262"
  },
  {
   "code": "MX",
@@ -1260,7 +2914,18 @@
    "Mexico City"
   ],
   "continent": "North America",
-  "population": 128932753
+  "population": 128932753,
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Mexican peso",
+    "symbol": "$"
+   }
+  ],
+  "area": 1964375,
+  "callingCode": "+52"
  },
  {
   "code": "FM",
@@ -1269,7 +2934,13 @@
    "Palikir"
   ],
   "continent": "Oceania",
-  "population": 115021
+  "population": 115021,
+  "languages": [
+   "English"
+  ],
+  "currencies": [],
+  "area": 702,
+  "callingCode": "+691"
  },
  {
   "code": "MD",
@@ -1278,7 +2949,18 @@
    "Chișinău"
   ],
   "continent": "Europe",
-  "population": 2617820
+  "population": 2617820,
+  "languages": [
+   "Moldavian"
+  ],
+  "currencies": [
+   {
+    "name": "Moldovan leu",
+    "symbol": "L"
+   }
+  ],
+  "area": 33846,
+  "callingCode": "+373"
  },
  {
   "code": "MC",
@@ -1287,7 +2969,18 @@
    "Monaco"
   ],
   "continent": "Europe",
-  "population": 39244
+  "population": 39244,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 2.02,
+  "callingCode": "+377"
  },
  {
   "code": "MN",
@@ -1296,7 +2989,18 @@
    "Ulan Bator"
   ],
   "continent": "Asia",
-  "population": 3278292
+  "population": 3278292,
+  "languages": [
+   "Mongolian"
+  ],
+  "currencies": [
+   {
+    "name": "Mongolian tögrög",
+    "symbol": "₮"
+   }
+  ],
+  "area": 1564110,
+  "callingCode": "+976"
  },
  {
   "code": "ME",
@@ -1305,7 +3009,18 @@
    "Podgorica"
   ],
   "continent": "Europe",
-  "population": 621718
+  "population": 621718,
+  "languages": [
+   "Montenegrin"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 13812,
+  "callingCode": "+382"
  },
  {
   "code": "MS",
@@ -1314,7 +3029,18 @@
    "Plymouth"
   ],
   "continent": "North America",
-  "population": 4922
+  "population": 4922,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Eastern Caribbean dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 102,
+  "callingCode": "+1664"
  },
  {
   "code": "MA",
@@ -1323,7 +3049,19 @@
    "Rabat"
   ],
   "continent": "Africa",
-  "population": 36910558
+  "population": 36910558,
+  "languages": [
+   "Arabic",
+   "Berber"
+  ],
+  "currencies": [
+   {
+    "name": "Moroccan dirham",
+    "symbol": "د.م."
+   }
+  ],
+  "area": 446550,
+  "callingCode": "+212"
  },
  {
   "code": "MZ",
@@ -1332,7 +3070,18 @@
    "Maputo"
   ],
   "continent": "Africa",
-  "population": 31255435
+  "population": 31255435,
+  "languages": [
+   "Portuguese"
+  ],
+  "currencies": [
+   {
+    "name": "Mozambican metical",
+    "symbol": "MT"
+   }
+  ],
+  "area": 801590,
+  "callingCode": "+258"
  },
  {
   "code": "MM",
@@ -1341,7 +3090,18 @@
    "Naypyidaw"
   ],
   "continent": "Asia",
-  "population": 54409794
+  "population": 54409794,
+  "languages": [
+   "Burmese"
+  ],
+  "currencies": [
+   {
+    "name": "Burmese kyat",
+    "symbol": "Ks"
+   }
+  ],
+  "area": 676578,
+  "callingCode": "+95"
  },
  {
   "code": "NA",
@@ -1350,7 +3110,30 @@
    "Windhoek"
   ],
   "continent": "Africa",
-  "population": 2540916
+  "population": 2540916,
+  "languages": [
+   "Afrikaans",
+   "German",
+   "English",
+   "Herero",
+   "Khoekhoe",
+   "Kwangali",
+   "Lozi",
+   "Ndonga",
+   "Tswana"
+  ],
+  "currencies": [
+   {
+    "name": "Namibian dollar",
+    "symbol": "$"
+   },
+   {
+    "name": "South African rand",
+    "symbol": "R"
+   }
+  ],
+  "area": 825615,
+  "callingCode": "+264"
  },
  {
   "code": "NR",
@@ -1359,7 +3142,19 @@
    "Yaren"
   ],
   "continent": "Oceania",
-  "population": 10834
+  "population": 10834,
+  "languages": [
+   "English",
+   "Nauru"
+  ],
+  "currencies": [
+   {
+    "name": "Australian dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 21,
+  "callingCode": "+674"
  },
  {
   "code": "NP",
@@ -1368,7 +3163,18 @@
    "Kathmandu"
   ],
   "continent": "Asia",
-  "population": 29136808
+  "population": 29136808,
+  "languages": [
+   "Nepali"
+  ],
+  "currencies": [
+   {
+    "name": "Nepalese rupee",
+    "symbol": "₨"
+   }
+  ],
+  "area": 147181,
+  "callingCode": "+977"
  },
  {
   "code": "NL",
@@ -1377,7 +3183,18 @@
    "Amsterdam"
   ],
   "continent": "Europe",
-  "population": 17441139
+  "population": 17441139,
+  "languages": [
+   "Dutch"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 41850,
+  "callingCode": "+31"
  },
  {
   "code": "NC",
@@ -1386,7 +3203,18 @@
    "Nouméa"
   ],
   "continent": "Oceania",
-  "population": 271960
+  "population": 271960,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "CFP franc",
+    "symbol": "₣"
+   }
+  ],
+  "area": 18575,
+  "callingCode": "+687"
  },
  {
   "code": "NZ",
@@ -1395,7 +3223,20 @@
    "Wellington"
   ],
   "continent": "Oceania",
-  "population": 5084300
+  "population": 5084300,
+  "languages": [
+   "English",
+   "Māori",
+   "New Zealand Sign Language"
+  ],
+  "currencies": [
+   {
+    "name": "New Zealand dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 270467,
+  "callingCode": "+64"
  },
  {
   "code": "NI",
@@ -1404,7 +3245,18 @@
    "Managua"
   ],
   "continent": "North America",
-  "population": 6624554
+  "population": 6624554,
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Nicaraguan córdoba",
+    "symbol": "C$"
+   }
+  ],
+  "area": 130373,
+  "callingCode": "+505"
  },
  {
   "code": "NE",
@@ -1413,7 +3265,18 @@
    "Niamey"
   ],
   "continent": "Africa",
-  "population": 24206636
+  "population": 24206636,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "West African CFA franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 1267000,
+  "callingCode": "+227"
  },
  {
   "code": "NG",
@@ -1422,7 +3285,18 @@
    "Abuja"
   ],
   "continent": "Africa",
-  "population": 206139587
+  "population": 206139587,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Nigerian naira",
+    "symbol": "₦"
+   }
+  ],
+  "area": 923768,
+  "callingCode": "+234"
  },
  {
   "code": "NU",
@@ -1431,7 +3305,19 @@
    "Alofi"
   ],
   "continent": "Oceania",
-  "population": 1470
+  "population": 1470,
+  "languages": [
+   "English",
+   "Niuean"
+  ],
+  "currencies": [
+   {
+    "name": "New Zealand dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 260,
+  "callingCode": "+683"
  },
  {
   "code": "NF",
@@ -1440,7 +3326,19 @@
    "Kingston"
   ],
   "continent": "Oceania",
-  "population": 2302
+  "population": 2302,
+  "languages": [
+   "English",
+   "Norfuk"
+  ],
+  "currencies": [
+   {
+    "name": "Australian dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 36,
+  "callingCode": "+672"
  },
  {
   "code": "KP",
@@ -1449,7 +3347,18 @@
    "Pyongyang"
   ],
   "continent": "Asia",
-  "population": 25778815
+  "population": 25778815,
+  "languages": [
+   "Korean"
+  ],
+  "currencies": [
+   {
+    "name": "North Korean won",
+    "symbol": "₩"
+   }
+  ],
+  "area": 120538,
+  "callingCode": "+850"
  },
  {
   "code": "MK",
@@ -1458,7 +3367,18 @@
    "Skopje"
   ],
   "continent": "Europe",
-  "population": 2083380
+  "population": 2083380,
+  "languages": [
+   "Macedonian"
+  ],
+  "currencies": [
+   {
+    "name": "denar",
+    "symbol": "den"
+   }
+  ],
+  "area": 25713,
+  "callingCode": "+389"
  },
  {
   "code": "MP",
@@ -1467,7 +3387,20 @@
    "Saipan"
   ],
   "continent": "Oceania",
-  "population": 57557
+  "population": 57557,
+  "languages": [
+   "Carolinian",
+   "Chamorro",
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 464,
+  "callingCode": "+1670"
  },
  {
   "code": "NO",
@@ -1476,7 +3409,20 @@
    "Oslo"
   ],
   "continent": "Europe",
-  "population": 5379475
+  "population": 5379475,
+  "languages": [
+   "Norwegian Nynorsk",
+   "Norwegian Bokmål",
+   "Sami"
+  ],
+  "currencies": [
+   {
+    "name": "Norwegian krone",
+    "symbol": "kr"
+   }
+  ],
+  "area": 323802,
+  "callingCode": "+47"
  },
  {
   "code": "OM",
@@ -1485,7 +3431,18 @@
    "Muscat"
   ],
   "continent": "Asia",
-  "population": 5106622
+  "population": 5106622,
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   {
+    "name": "Omani rial",
+    "symbol": "ر.ع."
+   }
+  ],
+  "area": 309500,
+  "callingCode": "+968"
  },
  {
   "code": "PK",
@@ -1494,7 +3451,19 @@
    "Islamabad"
   ],
   "continent": "Asia",
-  "population": 220892331
+  "population": 220892331,
+  "languages": [
+   "English",
+   "Urdu"
+  ],
+  "currencies": [
+   {
+    "name": "Pakistani rupee",
+    "symbol": "₨"
+   }
+  ],
+  "area": 881912,
+  "callingCode": "+92"
  },
  {
   "code": "PW",
@@ -1503,7 +3472,19 @@
    "Ngerulmud"
   ],
   "continent": "Oceania",
-  "population": 18092
+  "population": 18092,
+  "languages": [
+   "English",
+   "Palauan"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 459,
+  "callingCode": "+680"
  },
  {
   "code": "PS",
@@ -1512,7 +3493,26 @@
    "Ramallah"
   ],
   "continent": "Asia",
-  "population": 4803269
+  "population": 4803269,
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   {
+    "name": "Egyptian pound",
+    "symbol": "E£"
+   },
+   {
+    "name": "Israeli new shekel",
+    "symbol": "₪"
+   },
+   {
+    "name": "Jordanian dinar",
+    "symbol": "JD"
+   }
+  ],
+  "area": 6220,
+  "callingCode": "+970"
  },
  {
   "code": "PA",
@@ -1521,7 +3521,22 @@
    "Panama City"
   ],
   "continent": "North America",
-  "population": 4314768
+  "population": 4314768,
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Panamanian balboa",
+    "symbol": "B/."
+   },
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 75417,
+  "callingCode": "+507"
  },
  {
   "code": "PG",
@@ -1530,7 +3545,20 @@
    "Port Moresby"
   ],
   "continent": "Oceania",
-  "population": 8947027
+  "population": 8947027,
+  "languages": [
+   "English",
+   "Hiri Motu",
+   "Tok Pisin"
+  ],
+  "currencies": [
+   {
+    "name": "Papua New Guinean kina",
+    "symbol": "K"
+   }
+  ],
+  "area": 462840,
+  "callingCode": "+675"
  },
  {
   "code": "PY",
@@ -1539,7 +3567,19 @@
    "Asunción"
   ],
   "continent": "South America",
-  "population": 7132530
+  "population": 7132530,
+  "languages": [
+   "Guaraní",
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Paraguayan guaraní",
+    "symbol": "₲"
+   }
+  ],
+  "area": 406752,
+  "callingCode": "+595"
  },
  {
   "code": "PE",
@@ -1548,7 +3588,20 @@
    "Lima"
   ],
   "continent": "South America",
-  "population": 32971846
+  "population": 32971846,
+  "languages": [
+   "Aymara",
+   "Quechua",
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Peruvian sol",
+    "symbol": "S/."
+   }
+  ],
+  "area": 1285216,
+  "callingCode": "+51"
  },
  {
   "code": "PH",
@@ -1557,7 +3610,19 @@
    "Manila"
   ],
   "continent": "Asia",
-  "population": 109581085
+  "population": 109581085,
+  "languages": [
+   "English",
+   "Filipino"
+  ],
+  "currencies": [
+   {
+    "name": "Philippine peso",
+    "symbol": "₱"
+   }
+  ],
+  "area": 342353,
+  "callingCode": "+63"
  },
  {
   "code": "PN",
@@ -1566,7 +3631,18 @@
    "Adamstown"
   ],
   "continent": "Oceania",
-  "population": 56
+  "population": 56,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "New Zealand dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 47,
+  "callingCode": "+64"
  },
  {
   "code": "PL",
@@ -1575,7 +3651,18 @@
    "Warsaw"
   ],
   "continent": "Europe",
-  "population": 37950802
+  "population": 37950802,
+  "languages": [
+   "Polish"
+  ],
+  "currencies": [
+   {
+    "name": "Polish złoty",
+    "symbol": "zł"
+   }
+  ],
+  "area": 312679,
+  "callingCode": "+48"
  },
  {
   "code": "PT",
@@ -1584,7 +3671,18 @@
    "Lisbon"
   ],
   "continent": "Europe",
-  "population": 10305564
+  "population": 10305564,
+  "languages": [
+   "Portuguese"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 92090,
+  "callingCode": "+351"
  },
  {
   "code": "PR",
@@ -1593,7 +3691,19 @@
    "San Juan"
   ],
   "continent": "North America",
-  "population": 3194034
+  "population": 3194034,
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 8870,
+  "callingCode": "+1"
  },
  {
   "code": "QA",
@@ -1602,7 +3712,18 @@
    "Doha"
   ],
   "continent": "Asia",
-  "population": 2881060
+  "population": 2881060,
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   {
+    "name": "Qatari riyal",
+    "symbol": "ر.ق"
+   }
+  ],
+  "area": 11586,
+  "callingCode": "+974"
  },
  {
   "code": "CG",
@@ -1611,7 +3732,20 @@
    "Brazzaville"
   ],
   "continent": "Africa",
-  "population": 5518092
+  "population": 5518092,
+  "languages": [
+   "French",
+   "Kikongo",
+   "Lingala"
+  ],
+  "currencies": [
+   {
+    "name": "Central African CFA franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 342000,
+  "callingCode": "+242"
  },
  {
   "code": "RO",
@@ -1620,7 +3754,18 @@
    "Bucharest"
   ],
   "continent": "Europe",
-  "population": 19286123
+  "population": 19286123,
+  "languages": [
+   "Romanian"
+  ],
+  "currencies": [
+   {
+    "name": "Romanian leu",
+    "symbol": "lei"
+   }
+  ],
+  "area": 238391,
+  "callingCode": "+40"
  },
  {
   "code": "RU",
@@ -1629,7 +3774,18 @@
    "Moscow"
   ],
   "continent": "Europe",
-  "population": 144104080
+  "population": 144104080,
+  "languages": [
+   "Russian"
+  ],
+  "currencies": [
+   {
+    "name": "Russian ruble",
+    "symbol": "₽"
+   }
+  ],
+  "area": 17098242,
+  "callingCode": "+7"
  },
  {
   "code": "RW",
@@ -1638,7 +3794,20 @@
    "Kigali"
   ],
   "continent": "Africa",
-  "population": 12952209
+  "population": 12952209,
+  "languages": [
+   "English",
+   "French",
+   "Kinyarwanda"
+  ],
+  "currencies": [
+   {
+    "name": "Rwandan franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 26338,
+  "callingCode": "+250"
  },
  {
   "code": "RE",
@@ -1647,7 +3816,18 @@
    "Saint-Denis"
   ],
   "continent": "Africa",
-  "population": 840974
+  "population": 840974,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 2511,
+  "callingCode": "+262"
  },
  {
   "code": "BL",
@@ -1656,7 +3836,18 @@
    "Gustavia"
   ],
   "continent": "North America",
-  "population": 9417
+  "population": 9417,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 21,
+  "callingCode": "+590"
  },
  {
   "code": "SH",
@@ -1665,7 +3856,22 @@
    "Jamestown"
   ],
   "continent": "Africa",
-  "population": 4255
+  "population": 4255,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Pound sterling",
+    "symbol": "£"
+   },
+   {
+    "name": "Saint Helena pound",
+    "symbol": "£"
+   }
+  ],
+  "area": 394,
+  "callingCode": "+2"
  },
  {
   "code": "KN",
@@ -1674,7 +3880,18 @@
    "Basseterre"
   ],
   "continent": "North America",
-  "population": 53192
+  "population": 53192,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Eastern Caribbean dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 261,
+  "callingCode": "+1869"
  },
  {
   "code": "LC",
@@ -1683,7 +3900,18 @@
    "Castries"
   ],
   "continent": "North America",
-  "population": 183629
+  "population": 183629,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Eastern Caribbean dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 616,
+  "callingCode": "+1758"
  },
  {
   "code": "MF",
@@ -1692,7 +3920,18 @@
    "Marigot"
   ],
   "continent": "North America",
-  "population": 38659
+  "population": 38659,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 53,
+  "callingCode": "+590"
  },
  {
   "code": "PM",
@@ -1701,7 +3940,18 @@
    "Saint-Pierre"
   ],
   "continent": "North America",
-  "population": 6069
+  "population": 6069,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 242,
+  "callingCode": "+508"
  },
  {
   "code": "VC",
@@ -1710,7 +3960,18 @@
    "Kingstown"
   ],
   "continent": "North America",
-  "population": 110947
+  "population": 110947,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Eastern Caribbean dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 389,
+  "callingCode": "+1784"
  },
  {
   "code": "WS",
@@ -1719,7 +3980,19 @@
    "Apia"
   ],
   "continent": "Oceania",
-  "population": 198410
+  "population": 198410,
+  "languages": [
+   "English",
+   "Samoan"
+  ],
+  "currencies": [
+   {
+    "name": "Samoan tālā",
+    "symbol": "T"
+   }
+  ],
+  "area": 2842,
+  "callingCode": "+685"
  },
  {
   "code": "SM",
@@ -1728,7 +4001,18 @@
    "City of San Marino"
   ],
   "continent": "Europe",
-  "population": 33938
+  "population": 33938,
+  "languages": [
+   "Italian"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 61,
+  "callingCode": "+378"
  },
  {
   "code": "SA",
@@ -1737,7 +4021,18 @@
    "Riyadh"
   ],
   "continent": "Asia",
-  "population": 34813867
+  "population": 34813867,
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   {
+    "name": "Saudi riyal",
+    "symbol": "ر.س"
+   }
+  ],
+  "area": 2149690,
+  "callingCode": "+966"
  },
  {
   "code": "SN",
@@ -1746,7 +4041,18 @@
    "Dakar"
   ],
   "continent": "Africa",
-  "population": 16743930
+  "population": 16743930,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "West African CFA franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 196722,
+  "callingCode": "+221"
  },
  {
   "code": "RS",
@@ -1755,7 +4061,18 @@
    "Belgrade"
   ],
   "continent": "Europe",
-  "population": 6908224
+  "population": 6908224,
+  "languages": [
+   "Serbian"
+  ],
+  "currencies": [
+   {
+    "name": "Serbian dinar",
+    "symbol": "дин."
+   }
+  ],
+  "area": 88361,
+  "callingCode": "+381"
  },
  {
   "code": "SC",
@@ -1764,7 +4081,20 @@
    "Victoria"
   ],
   "continent": "Africa",
-  "population": 98462
+  "population": 98462,
+  "languages": [
+   "Seychellois Creole",
+   "English",
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Seychellois rupee",
+    "symbol": "₨"
+   }
+  ],
+  "area": 452,
+  "callingCode": "+248"
  },
  {
   "code": "SL",
@@ -1773,7 +4103,18 @@
    "Freetown"
   ],
   "continent": "Africa",
-  "population": 7976985
+  "population": 7976985,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Sierra Leonean leone",
+    "symbol": "Le"
+   }
+  ],
+  "area": 71740,
+  "callingCode": "+232"
  },
  {
   "code": "SG",
@@ -1782,7 +4123,21 @@
    "Singapore"
   ],
   "continent": "Asia",
-  "population": 5685807
+  "population": 5685807,
+  "languages": [
+   "English",
+   "Malay",
+   "Tamil",
+   "Chinese"
+  ],
+  "currencies": [
+   {
+    "name": "Singapore dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 710,
+  "callingCode": "+65"
  },
  {
   "code": "SX",
@@ -1791,7 +4146,20 @@
    "Philipsburg"
   ],
   "continent": "North America",
-  "population": 40812
+  "population": 40812,
+  "languages": [
+   "English",
+   "French",
+   "Dutch"
+  ],
+  "currencies": [
+   {
+    "name": "Netherlands Antillean guilder",
+    "symbol": "ƒ"
+   }
+  ],
+  "area": 34,
+  "callingCode": "+1721"
  },
  {
   "code": "SK",
@@ -1800,7 +4168,18 @@
    "Bratislava"
   ],
   "continent": "Europe",
-  "population": 5458827
+  "population": 5458827,
+  "languages": [
+   "Slovak"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 49037,
+  "callingCode": "+421"
  },
  {
   "code": "SI",
@@ -1809,7 +4188,18 @@
    "Ljubljana"
   ],
   "continent": "Europe",
-  "population": 2100126
+  "population": 2100126,
+  "languages": [
+   "Slovene"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 20273,
+  "callingCode": "+386"
  },
  {
   "code": "SB",
@@ -1818,7 +4208,18 @@
    "Honiara"
   ],
   "continent": "Oceania",
-  "population": 686878
+  "population": 686878,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Solomon Islands dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 28896,
+  "callingCode": "+677"
  },
  {
   "code": "SO",
@@ -1827,7 +4228,19 @@
    "Mogadishu"
   ],
   "continent": "Africa",
-  "population": 15893219
+  "population": 15893219,
+  "languages": [
+   "Arabic",
+   "Somali"
+  ],
+  "currencies": [
+   {
+    "name": "Somali shilling",
+    "symbol": "Sh"
+   }
+  ],
+  "area": 637657,
+  "callingCode": "+252"
  },
  {
   "code": "ZA",
@@ -1838,7 +4251,28 @@
    "Cape Town"
   ],
   "continent": "Africa",
-  "population": 59308690
+  "population": 59308690,
+  "languages": [
+   "Afrikaans",
+   "English",
+   "Southern Ndebele",
+   "Northern Sotho",
+   "Southern Sotho",
+   "Swazi",
+   "Tswana",
+   "Tsonga",
+   "Venda",
+   "Xhosa",
+   "Zulu"
+  ],
+  "currencies": [
+   {
+    "name": "South African rand",
+    "symbol": "R"
+   }
+  ],
+  "area": 1221037,
+  "callingCode": "+27"
  },
  {
   "code": "GS",
@@ -1847,7 +4281,18 @@
    "King Edward Point"
   ],
   "continent": "Antarctica",
-  "population": 30
+  "population": 30,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Saint Helena pound",
+    "symbol": "£"
+   }
+  ],
+  "area": 3903,
+  "callingCode": "+500"
  },
  {
   "code": "KR",
@@ -1856,7 +4301,18 @@
    "Seoul"
   ],
   "continent": "Asia",
-  "population": 51780579
+  "population": 51780579,
+  "languages": [
+   "Korean"
+  ],
+  "currencies": [
+   {
+    "name": "South Korean won",
+    "symbol": "₩"
+   }
+  ],
+  "area": 100210,
+  "callingCode": "+82"
  },
  {
   "code": "SS",
@@ -1865,7 +4321,18 @@
    "Juba"
   ],
   "continent": "Africa",
-  "population": 11193729
+  "population": 11193729,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "South Sudanese pound",
+    "symbol": "£"
+   }
+  ],
+  "area": 619745,
+  "callingCode": "+211"
  },
  {
   "code": "ES",
@@ -1874,7 +4341,18 @@
    "Madrid"
   ],
   "continent": "Europe",
-  "population": 47351567
+  "population": 47351567,
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 505992,
+  "callingCode": "+34"
  },
  {
   "code": "LK",
@@ -1883,7 +4361,19 @@
    "Colombo"
   ],
   "continent": "Asia",
-  "population": 21919000
+  "population": 21919000,
+  "languages": [
+   "Sinhala",
+   "Tamil"
+  ],
+  "currencies": [
+   {
+    "name": "Sri Lankan rupee",
+    "symbol": "Rs  රු"
+   }
+  ],
+  "area": 65610,
+  "callingCode": "+94"
  },
  {
   "code": "SD",
@@ -1892,7 +4382,19 @@
    "Khartoum"
   ],
   "continent": "Africa",
-  "population": 43849269
+  "population": 43849269,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Sudanese pound",
+    "symbol": "PT"
+   }
+  ],
+  "area": 1886068,
+  "callingCode": "+249"
  },
  {
   "code": "SR",
@@ -1901,7 +4403,18 @@
    "Paramaribo"
   ],
   "continent": "South America",
-  "population": 586634
+  "population": 586634,
+  "languages": [
+   "Dutch"
+  ],
+  "currencies": [
+   {
+    "name": "Surinamese dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 163820,
+  "callingCode": "+597"
  },
  {
   "code": "SJ",
@@ -1910,7 +4423,18 @@
    "Longyearbyen"
   ],
   "continent": "Europe",
-  "population": 2562
+  "population": 2562,
+  "languages": [
+   "Norwegian"
+  ],
+  "currencies": [
+   {
+    "name": "krone",
+    "symbol": "kr"
+   }
+  ],
+  "area": -1,
+  "callingCode": "+4779"
  },
  {
   "code": "SE",
@@ -1919,7 +4443,18 @@
    "Stockholm"
   ],
   "continent": "Europe",
-  "population": 10353442
+  "population": 10353442,
+  "languages": [
+   "Swedish"
+  ],
+  "currencies": [
+   {
+    "name": "Swedish krona",
+    "symbol": "kr"
+   }
+  ],
+  "area": 450295,
+  "callingCode": "+46"
  },
  {
   "code": "CH",
@@ -1928,7 +4463,21 @@
    "Bern"
   ],
   "continent": "Europe",
-  "population": 8636896
+  "population": 8636896,
+  "languages": [
+   "French",
+   "Swiss German",
+   "Italian",
+   "Romansh"
+  ],
+  "currencies": [
+   {
+    "name": "Swiss franc",
+    "symbol": "Fr."
+   }
+  ],
+  "area": 41284,
+  "callingCode": "+41"
  },
  {
   "code": "SY",
@@ -1937,7 +4486,18 @@
    "Damascus"
   ],
   "continent": "Asia",
-  "population": 17500657
+  "population": 17500657,
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   {
+    "name": "Syrian pound",
+    "symbol": "£"
+   }
+  ],
+  "area": 185180,
+  "callingCode": "+963"
  },
  {
   "code": "ST",
@@ -1946,7 +4506,18 @@
    "São Tomé"
   ],
   "continent": "Africa",
-  "population": 219161
+  "population": 219161,
+  "languages": [
+   "Portuguese"
+  ],
+  "currencies": [
+   {
+    "name": "São Tomé and Príncipe dobra",
+    "symbol": "Db"
+   }
+  ],
+  "area": 964,
+  "callingCode": "+239"
  },
  {
   "code": "TW",
@@ -1955,7 +4526,18 @@
    "Taipei"
   ],
   "continent": "Asia",
-  "population": 23503349
+  "population": 23503349,
+  "languages": [
+   "Chinese"
+  ],
+  "currencies": [
+   {
+    "name": "New Taiwan dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 36193,
+  "callingCode": "+886"
  },
  {
   "code": "TJ",
@@ -1964,7 +4546,19 @@
    "Dushanbe"
   ],
   "continent": "Asia",
-  "population": 9537642
+  "population": 9537642,
+  "languages": [
+   "Russian",
+   "Tajik"
+  ],
+  "currencies": [
+   {
+    "name": "Tajikistani somoni",
+    "symbol": "ЅМ"
+   }
+  ],
+  "area": 143100,
+  "callingCode": "+992"
  },
  {
   "code": "TZ",
@@ -1973,7 +4567,19 @@
    "Dodoma"
   ],
   "continent": "Africa",
-  "population": 59734213
+  "population": 59734213,
+  "languages": [
+   "English",
+   "Swahili"
+  ],
+  "currencies": [
+   {
+    "name": "Tanzanian shilling",
+    "symbol": "Sh"
+   }
+  ],
+  "area": 945087,
+  "callingCode": "+255"
  },
  {
   "code": "TH",
@@ -1982,7 +4588,18 @@
    "Bangkok"
   ],
   "continent": "Asia",
-  "population": 69799978
+  "population": 69799978,
+  "languages": [
+   "Thai"
+  ],
+  "currencies": [
+   {
+    "name": "Thai baht",
+    "symbol": "฿"
+   }
+  ],
+  "area": 513120,
+  "callingCode": "+66"
  },
  {
   "code": "TL",
@@ -1991,7 +4608,19 @@
    "Dili"
   ],
   "continent": "Asia",
-  "population": 1318442
+  "population": 1318442,
+  "languages": [
+   "Portuguese",
+   "Tetum"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 14874,
+  "callingCode": "+670"
  },
  {
   "code": "TG",
@@ -2000,7 +4629,18 @@
    "Lomé"
   ],
   "continent": "Africa",
-  "population": 8278737
+  "population": 8278737,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "West African CFA franc",
+    "symbol": "Fr"
+   }
+  ],
+  "area": 56785,
+  "callingCode": "+228"
  },
  {
   "code": "TK",
@@ -2009,7 +4649,20 @@
    "Fakaofo"
   ],
   "continent": "Oceania",
-  "population": 1411
+  "population": 1411,
+  "languages": [
+   "English",
+   "Samoan",
+   "Tokelauan"
+  ],
+  "currencies": [
+   {
+    "name": "New Zealand dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 12,
+  "callingCode": "+690"
  },
  {
   "code": "TO",
@@ -2018,7 +4671,19 @@
    "Nuku'alofa"
   ],
   "continent": "Oceania",
-  "population": 105697
+  "population": 105697,
+  "languages": [
+   "English",
+   "Tongan"
+  ],
+  "currencies": [
+   {
+    "name": "Tongan paʻanga",
+    "symbol": "T$"
+   }
+  ],
+  "area": 747,
+  "callingCode": "+676"
  },
  {
   "code": "TT",
@@ -2027,7 +4692,18 @@
    "Port of Spain"
   ],
   "continent": "North America",
-  "population": 1399491
+  "population": 1399491,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Trinidad and Tobago dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 5130,
+  "callingCode": "+1868"
  },
  {
   "code": "TN",
@@ -2036,7 +4712,18 @@
    "Tunis"
   ],
   "continent": "Africa",
-  "population": 11818618
+  "population": 11818618,
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   {
+    "name": "Tunisian dinar",
+    "symbol": "د.ت"
+   }
+  ],
+  "area": 163610,
+  "callingCode": "+216"
  },
  {
   "code": "TM",
@@ -2045,7 +4732,19 @@
    "Ashgabat"
   ],
   "continent": "Asia",
-  "population": 6031187
+  "population": 6031187,
+  "languages": [
+   "Russian",
+   "Turkmen"
+  ],
+  "currencies": [
+   {
+    "name": "Turkmenistan manat",
+    "symbol": "m"
+   }
+  ],
+  "area": 488100,
+  "callingCode": "+993"
  },
  {
   "code": "TC",
@@ -2054,7 +4753,18 @@
    "Cockburn Town"
   ],
   "continent": "North America",
-  "population": 38718
+  "population": 38718,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 948,
+  "callingCode": "+1649"
  },
  {
   "code": "TV",
@@ -2063,7 +4773,23 @@
    "Funafuti"
   ],
   "continent": "Oceania",
-  "population": 11792
+  "population": 11792,
+  "languages": [
+   "English",
+   "Tuvaluan"
+  ],
+  "currencies": [
+   {
+    "name": "Australian dollar",
+    "symbol": "$"
+   },
+   {
+    "name": "Tuvaluan dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 26,
+  "callingCode": "+688"
  },
  {
   "code": "TR",
@@ -2072,7 +4798,18 @@
    "Ankara"
   ],
   "continent": "Asia",
-  "population": 84339067
+  "population": 84339067,
+  "languages": [
+   "Turkish"
+  ],
+  "currencies": [
+   {
+    "name": "Turkish lira",
+    "symbol": "₺"
+   }
+  ],
+  "area": 783562,
+  "callingCode": "+90"
  },
  {
   "code": "UG",
@@ -2081,7 +4818,19 @@
    "Kampala"
   ],
   "continent": "Africa",
-  "population": 45741000
+  "population": 45741000,
+  "languages": [
+   "English",
+   "Swahili"
+  ],
+  "currencies": [
+   {
+    "name": "Ugandan shilling",
+    "symbol": "Sh"
+   }
+  ],
+  "area": 241550,
+  "callingCode": "+256"
  },
  {
   "code": "UA",
@@ -2090,7 +4839,18 @@
    "Kyiv"
   ],
   "continent": "Europe",
-  "population": 44134693
+  "population": 44134693,
+  "languages": [
+   "Ukrainian"
+  ],
+  "currencies": [
+   {
+    "name": "Ukrainian hryvnia",
+    "symbol": "₴"
+   }
+  ],
+  "area": 603500,
+  "callingCode": "+380"
  },
  {
   "code": "AE",
@@ -2099,7 +4859,18 @@
    "Abu Dhabi"
   ],
   "continent": "Asia",
-  "population": 9890400
+  "population": 9890400,
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   {
+    "name": "United Arab Emirates dirham",
+    "symbol": "د.إ"
+   }
+  ],
+  "area": 83600,
+  "callingCode": "+971"
  },
  {
   "code": "GB",
@@ -2108,7 +4879,18 @@
    "London"
   ],
   "continent": "Europe",
-  "population": 67215293
+  "population": 67215293,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "British pound",
+    "symbol": "£"
+   }
+  ],
+  "area": 242900,
+  "callingCode": "+44"
  },
  {
   "code": "US",
@@ -2117,14 +4899,36 @@
    "Washington D.C."
   ],
   "continent": "North America",
-  "population": 329484123
+  "population": 329484123,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 9372610,
+  "callingCode": "+1"
  },
  {
   "code": "UM",
   "name": "United States Minor Outlying Islands",
   "capital": [],
   "continent": "North America",
-  "population": 300
+  "population": 300,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 34.2,
+  "callingCode": "+268"
  },
  {
   "code": "VI",
@@ -2133,7 +4937,18 @@
    "Charlotte Amalie"
   ],
   "continent": "North America",
-  "population": 106290
+  "population": 106290,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   }
+  ],
+  "area": 347,
+  "callingCode": "+1340"
  },
  {
   "code": "UY",
@@ -2142,7 +4957,18 @@
    "Montevideo"
   ],
   "continent": "South America",
-  "population": 3473727
+  "population": 3473727,
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Uruguayan peso",
+    "symbol": "$"
+   }
+  ],
+  "area": 181034,
+  "callingCode": "+598"
  },
  {
   "code": "UZ",
@@ -2151,7 +4977,19 @@
    "Tashkent"
   ],
   "continent": "Asia",
-  "population": 34232050
+  "population": 34232050,
+  "languages": [
+   "Russian",
+   "Uzbek"
+  ],
+  "currencies": [
+   {
+    "name": "Uzbekistani soʻm",
+    "symbol": "so'm"
+   }
+  ],
+  "area": 447400,
+  "callingCode": "+998"
  },
  {
   "code": "VU",
@@ -2160,7 +4998,20 @@
    "Port Vila"
   ],
   "continent": "Oceania",
-  "population": 307150
+  "population": 307150,
+  "languages": [
+   "Bislama",
+   "English",
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "Vanuatu vatu",
+    "symbol": "Vt"
+   }
+  ],
+  "area": 12189,
+  "callingCode": "+678"
  },
  {
   "code": "VA",
@@ -2169,7 +5020,19 @@
    "Vatican City"
   ],
   "continent": "Europe",
-  "population": 451
+  "population": 451,
+  "languages": [
+   "Italian",
+   "Latin"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 0.44,
+  "callingCode": "+3"
  },
  {
   "code": "VE",
@@ -2178,7 +5041,18 @@
    "Caracas"
   ],
   "continent": "South America",
-  "population": 28435943
+  "population": 28435943,
+  "languages": [
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Venezuelan bolívar soberano",
+    "symbol": "Bs.S."
+   }
+  ],
+  "area": 916445,
+  "callingCode": "+58"
  },
  {
   "code": "VN",
@@ -2187,7 +5061,18 @@
    "Hanoi"
   ],
   "continent": "Asia",
-  "population": 97338583
+  "population": 97338583,
+  "languages": [
+   "Vietnamese"
+  ],
+  "currencies": [
+   {
+    "name": "Vietnamese đồng",
+    "symbol": "₫"
+   }
+  ],
+  "area": 331212,
+  "callingCode": "+84"
  },
  {
   "code": "WF",
@@ -2196,7 +5081,18 @@
    "Mata-Utu"
   ],
   "continent": "Oceania",
-  "population": 11750
+  "population": 11750,
+  "languages": [
+   "French"
+  ],
+  "currencies": [
+   {
+    "name": "CFP franc",
+    "symbol": "₣"
+   }
+  ],
+  "area": 142,
+  "callingCode": "+681"
  },
  {
   "code": "EH",
@@ -2205,7 +5101,28 @@
    "El Aaiún"
   ],
   "continent": "Africa",
-  "population": 510713
+  "population": 510713,
+  "languages": [
+   "Berber",
+   "Hassaniya",
+   "Spanish"
+  ],
+  "currencies": [
+   {
+    "name": "Algerian dinar",
+    "symbol": "دج"
+   },
+   {
+    "name": "Moroccan dirham",
+    "symbol": "DH"
+   },
+   {
+    "name": "Mauritanian ouguiya",
+    "symbol": "UM"
+   }
+  ],
+  "area": 266000,
+  "callingCode": "+2"
  },
  {
   "code": "YE",
@@ -2214,7 +5131,18 @@
    "Sana'a"
   ],
   "continent": "Asia",
-  "population": 29825968
+  "population": 29825968,
+  "languages": [
+   "Arabic"
+  ],
+  "currencies": [
+   {
+    "name": "Yemeni rial",
+    "symbol": "﷼"
+   }
+  ],
+  "area": 527968,
+  "callingCode": "+967"
  },
  {
   "code": "ZM",
@@ -2223,7 +5151,18 @@
    "Lusaka"
   ],
   "continent": "Africa",
-  "population": 18383956
+  "population": 18383956,
+  "languages": [
+   "English"
+  ],
+  "currencies": [
+   {
+    "name": "Zambian kwacha",
+    "symbol": "ZK"
+   }
+  ],
+  "area": 752612,
+  "callingCode": "+260"
  },
  {
   "code": "ZW",
@@ -2232,7 +5171,64 @@
    "Harare"
   ],
   "continent": "Africa",
-  "population": 14862927
+  "population": 14862927,
+  "languages": [
+   "Chibarwe",
+   "English",
+   "Kalanga",
+   "Khoisan",
+   "Ndau",
+   "Northern Ndebele",
+   "Chewa",
+   "Shona",
+   "Sotho",
+   "Tonga",
+   "Tswana",
+   "Tsonga",
+   "Venda",
+   "Xhosa",
+   "Zimbabwean Sign Language"
+  ],
+  "currencies": [
+   {
+    "name": "Botswana pula",
+    "symbol": "P"
+   },
+   {
+    "name": "Chinese yuan",
+    "symbol": "¥"
+   },
+   {
+    "name": "Euro",
+    "symbol": "€"
+   },
+   {
+    "name": "British pound",
+    "symbol": "£"
+   },
+   {
+    "name": "Indian rupee",
+    "symbol": "₹"
+   },
+   {
+    "name": "Japanese yen",
+    "symbol": "¥"
+   },
+   {
+    "name": "United States dollar",
+    "symbol": "$"
+   },
+   {
+    "name": "South African rand",
+    "symbol": "Rs"
+   },
+   {
+    "name": "Zimbabwean bonds",
+    "symbol": "$"
+   }
+  ],
+  "area": 390757,
+  "callingCode": "+263"
  },
  {
   "code": "AX",
@@ -2241,6 +5237,17 @@
    "Mariehamn"
   ],
   "continent": "Europe",
-  "population": 28875
+  "population": 28875,
+  "languages": [
+   "Swedish"
+  ],
+  "currencies": [
+   {
+    "name": "Euro",
+    "symbol": "€"
+   }
+  ],
+  "area": 1580,
+  "callingCode": "+35818"
  }
 ]
