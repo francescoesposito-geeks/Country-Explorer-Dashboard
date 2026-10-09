@@ -1,0 +1,46 @@
+.selects {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 1rem;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.selects select {
+  min-width: 13rem;
+}
+
+.selects button {
+  height: 2.75rem;
+  padding: 0 1rem;
+  border: 1px solid var(--sea);
+  border-radius: 8px;
+  background-color: transparent;
+  color: var(--sea);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.selects button:hover:not(:disabled) {
+  background-color: var(--sea-soft);
+}
+
+.selects button:disabled {
+  border-color: var(--line);
+  color: var(--muted);
+  cursor: default;
+}
+
+@media (max-width: 600px) {
+  .selects,
+  .field,
+  .selects select,
+  .selects button {
+    width: 100%;
+  }
+}
